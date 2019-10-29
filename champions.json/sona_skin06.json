@@ -1,0 +1,246 @@
+{
+    "languages": ["en_GB"],
+    "categories": [
+        {
+            "id": "ATK",
+            "voices": [
+                {
+                    "file": "File0001",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0002",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0003",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0004",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0005",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0006",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0013",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0014",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0015",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0016",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0017",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0018",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0019",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0020",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0021",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0022",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0033",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0034",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0035",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0036",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0037",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0038",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0039",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0040",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0041",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0042",
+                    "form": "Concussive"
+                }
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {
+                    "file": "File0007",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0008",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0009",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0010",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0011",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0012",
+                    "form": "Kinetic"
+                },
+                {
+                    "file": "File0023",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0024",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0025",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0026",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0027",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0028",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0029",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0030",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0031",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0032",
+                    "form": "Ethereal"
+                },
+                {
+                    "file": "File0043",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0044",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0045",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0046",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0047",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0048",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0049",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0050",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0051",
+                    "form": "Concussive"
+                },
+                {
+                    "file": "File0052",
+                    "form": "Concussive"
+                }
+            ]
+        },
+		{
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0053"}
+			]
+		},
+		{
+            "id": "SPECIAL",
+            "voices": [
+                { 
+					"file": "File0056",
+					"form": "Kinetic"
+				},
+                { 
+					"file": "File0054",
+					"form": "Concussive"
+				},
+                { 
+					"file": "File0055",
+					"form": "Ethereal"
+				}
+			]
+		}
+    ]
+}

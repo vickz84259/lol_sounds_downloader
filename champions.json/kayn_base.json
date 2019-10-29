@@ -1,0 +1,1442 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "SELECT",
+            "voices": [
+				{
+					"file": "Kayn",
+					"name": "Select"
+				},
+				{
+					"file": "Kayn_Ban",
+					"name": "Ban"
+				}
+			]
+        },
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0171"},
+                {"file": "File0172"},
+                {"file": "File0173"},
+                {"file": "File0174"},
+                {"file": "File0175"},
+                {"file": "File0176"},
+                {"file": "File0177"},
+                {"file": "File0178"},
+                {"file": "File0179"}
+			]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0121"},
+                {"file": "File0122"},
+                {"file": "File0123"},
+                {"file": "File0124"},
+                {"file": "File0125"},
+                {"file": "File0126"},
+                {"file": "File0127"},
+                {"file": "File0128"},
+                {"file": "File0129"},
+                {"file": "File0130"},
+                {"file": "File0131"},
+                {"file": "File0132"},
+                {"file": "File0133"},
+                {"file": "File0134"},
+                {"file": "File0135"},
+                {"file": "File0136"},
+                {"file": "File0137"},
+                {"file": "File0138"},
+                {"file": "File0139"},
+                {"file": "File0140"},
+                {"file": "File0141"},
+                {"file": "File0142"},
+                {
+					"file": "File0001",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0002",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0003",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0004",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0005",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0006",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0007",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0008",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0009",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0010",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0011",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0012",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0013",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0014",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0015",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0016",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0276",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0277",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0278",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0279",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0280",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0281",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0282",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0283",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0284",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0285",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0286",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0287",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0288",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0289",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0290",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0291",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0292",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0143",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0293",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0294",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0017",
+					"form": "Assassin",
+					"interact": "Darius"
+				},
+                {
+					"file": "File0144",
+					"interact": "Shen"
+				},
+                {
+					"file": "File0018",
+					"form": "Assassin",
+					"interact": "Sion"
+				},
+                {
+					"file": "File0145",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0146",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0295",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0296",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0297",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0298",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0147",
+					"interact": "Epic Monster"
+				},
+                {
+					"file": "File0148",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0149",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0150",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0151",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0019",
+					"form": "Assassin",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0020",
+					"form": "Assassin",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0021",
+					"form": "Assassin",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0299",
+					"form": "Rhaast",
+					"interact": "Scuttlecrab"
+				},
+                {
+					"file": "File0300",
+					"form": "Rhaast",
+					"interact": "Scuttlecrab"
+				}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0238"},
+                {"file": "File0239"},
+                {"file": "File0240"},
+                {"file": "File0241"},
+                {"file": "File0242"},
+                {"file": "File0243"},
+                {"file": "File0244"},
+                {"file": "File0245"},
+                {"file": "File0246"},
+                {"file": "File0247"},
+                {"file": "File0248"},
+                {"file": "File0249"},
+                {"file": "File0250"},
+                {"file": "File0251"},
+                {"file": "File0252"},
+                {"file": "File0253"},
+                {"file": "File0254"},
+                {"file": "File0255"},
+                {"file": "File0256"},
+                {"file": "File0257"},
+                {"file": "File0258"},
+                {"file": "File0259"},
+                {"file": "File0260"},
+                {"file": "File0261"},
+                {"file": "File0262"},
+                {"file": "File0263"},
+                {"file": "File0264"},
+                {"file": "File0265"},
+                {"file": "File0266"},
+                {
+					"file": "File0071",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0072",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0073",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0074",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0075",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0076",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0077",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0078",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0079",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0080",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0081",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0082",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0083",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0084",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0085",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0086",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0087",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0349",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0350",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0351",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0352",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0353",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0354",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0355",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0356",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0357",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0358",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0359",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0360",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0361",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0362",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0363",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0364",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0365",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0366",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0367",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0368",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0369",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0370",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0371",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0372",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0267",
+					"interact": "Jungle"
+				},
+                {
+					"file": "File0268",
+					"interact": "Jungle"
+				},
+                {
+					"file": "File0269",
+					"interact": "River"
+				},
+                {
+					"file": "File0270",
+					"interact": "River"
+				},
+                {
+					"file": "File0271",
+					"interact": "River"
+				}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0159"},
+                {
+					"file": "File0024",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0301",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "RESPAWN",
+            "voices": [
+                {
+					"file": "File0090",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0091",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0092",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0367",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0368",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0369",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0160"},
+                {"file": "File0161"},
+                {"file": "File0162"},
+                {"file": "File0163"},
+                {"file": "File0164"},
+                {"file": "File0165"},
+                {"file": "File0166"},
+                {"file": "File0167"},
+                {"file": "File0168"},
+                {"file": "File0169"},
+                {"file": "File0170"},
+                {"file": "File0025"},
+                {"file": "File0026"},
+                {"file": "File0027"},
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {"file": "File0031"},
+                {"file": "File0032"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {"file": "File0093"},
+                {"file": "File0094"},
+                {"file": "File0095"},
+                {"file": "File0096"},
+                {"file": "File0097"},
+                {"file": "File0098"},
+                {"file": "File0099"},
+                {"file": "File0100"},
+                {"file": "File0101"},
+                {"file": "File0102"},
+                {"file": "File0302"},
+                {"file": "File0303"},
+                {"file": "File0304"},
+                {"file": "File0305"},
+                {"file": "File0306"},
+                {"file": "File0307"},
+                {"file": "File0308"},
+                {"file": "File0370"},
+                {"file": "File0371"},
+                {"file": "File0372"},
+                {"file": "File0373"},
+                {"file": "File0374"},
+                {"file": "File0375"},
+                {"file": "File0376"},
+                {"file": "File0377"},
+                {"file": "File0393"},
+                {"file": "File0394"},
+                {"file": "File0395"},
+                {"file": "File0396"},
+                {"file": "File0397"},
+                {"file": "File0398"},
+                {"file": "File0399"},
+                {"file": "File0408"},
+                {"file": "File0409"},
+                {"file": "File0410"},
+                {"file": "File0411"},
+                {"file": "File0412"},
+                {"file": "File0413"},
+                {"file": "File0414"},
+                {"file": "File0415"},
+                {"file": "File0416"},
+                {"file": "File0417"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0419"},
+                {"file": "File0420"},
+                {"file": "File0421"},
+                {"file": "File0422"},
+                {
+					"file": "File0104",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0105",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0381",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0382",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0383",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0423",
+					"form": "Ally",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0384",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0426",
+					"form": "Ally",
+					"interact": "Varus"
+				},
+                {
+					"file": "File0385",
+					"form": "Rhaast",
+					"interact": "Varus"
+				},
+                {
+					"file": "File0386",
+					"form": "Rhaast",
+					"interact": "Varus"
+				},
+                {
+					"file": "File0427",
+					"interact": "Yordle"
+				},
+                {
+					"file": "File0387",
+					"form": "Rhaast",
+					"interact": "Yordle"
+				},
+                {
+					"file": "File0428",
+					"form": "Ally",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0106",
+					"form": "Assassin (Ally)",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0107",
+					"form": "Assassin (Ally)",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0424",
+					"form": "Enemy",
+					"interact": "Noxian"
+				},
+                {
+					"file": "File0425",
+					"form": "Enemy",
+					"interact": "Noxian"
+				}
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0196"},
+                {"file": "File0197"},
+                {"file": "File0198"},
+                {"file": "File0199"},
+                {"file": "File0200"},
+                {
+					"file": "File0051",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0052",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0053",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0326",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0327",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0237"},
+                {
+					"file": "File0070",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0347",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0348",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {"file": "File0203"},
+                {"file": "File0204"},
+                {"file": "File0205"},
+                {"file": "File0206"},
+                {"file": "File0207"},
+                {"file": "File0208"},
+                {"file": "File0209"},
+                {"file": "File0210"},
+                {"file": "File0211"},
+                {"file": "File0212"},
+                {"file": "File0213"},
+                {"file": "File0214"},
+                {"file": "File0215"},
+                {"file": "File0218"},
+                {"file": "File0219"},
+                {"file": "File0220"},
+                {"file": "File0221"},
+                {"file": "File0222"},
+                {"file": "File0223"},
+                {"file": "File0224"},
+                {"file": "File0225"},
+                {"file": "File0226"},
+                {"file": "File0227"},
+                {"file": "File0228"},
+                {"file": "File0229"},
+                {
+					"file": "File0054",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0055",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0056",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0057",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0058",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0059",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0060",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0061",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0328",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0329",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0330",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0331",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0332",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0333",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0334",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0335",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0066",
+					"form": "Assassin (Killing Spree)"
+				},
+                {
+					"file": "File0067",
+					"form": "Assassin (Killing Spree)"
+				},
+                {
+					"file": "File0068",
+					"form": "Assassin (Killing Spree)"
+				},
+                {
+					"file": "File0069",
+					"form": "Assassin (Killing Spree)"
+				},
+                {
+					"file": "File0343",
+					"form": "Rhaast (Killing Spree)"
+				},
+                {
+					"file": "File0344",
+					"form": "Rhaast (Killing Spree)"
+				},
+                {
+					"file": "File0345",
+					"form": "Rhaast (Killing Spree)"
+				},
+                {
+					"file": "File0346",
+					"form": "Rhaast (Killing Spree)"
+				},
+                {
+					"file": "File0188",
+					"form": "First Blood"
+				},
+                {
+					"file": "File0189",
+					"form": "First Blood"
+				},
+                {
+					"file": "File0190",
+					"form": "First Blood"
+				},
+                {
+					"file": "File0191",
+					"form": "First Blood"
+				},
+                {
+					"file": "File0186",
+					"form": "Ace"
+				},
+                {
+					"file": "File0187",
+					"form": "Ace"
+				},
+                {
+					"file": "File0043",
+					"form": "Assassin (Ace)"
+				},
+                {
+					"file": "File0044",
+					"form": "Assassin (Ace)"
+				},
+                {
+					"file": "File0045",
+					"form": "Assassin (Ace)"
+				},
+                {
+					"file": "File0316",
+					"form": "Rhaast (Ace)"
+				},
+                {
+					"file": "File0317",
+					"form": "Rhaast (Ace)"
+				},
+                {
+					"file": "File0318",
+					"form": "Rhaast (Ace)"
+				},
+                {
+					"file": "File0319",
+					"form": "Rhaast (Ace)"
+				},
+                {
+					"file": "File0320",
+					"form": "Rhaast (Ace)"
+				},
+                {
+					"file": "File0194",
+					"form": "Quadra-kill"
+				},
+                {
+					"file": "File0195",
+					"form": "Quadra-kill"
+				},
+                {
+					"file": "File0048",
+					"form": "Assassin (Quadra-kill)"
+				},
+                {
+					"file": "File0049",
+					"form": "Assassin (Quadra-kill)"
+				},
+                {
+					"file": "File0050",
+					"form": "Assassin (Quadra-kill)"
+				},
+                {
+					"file": "File0323",
+					"form": "Rhaast (Quadra-kill)"
+				},
+                {
+					"file": "File0324",
+					"form": "Rhaast (Quadra-kill)"
+				},
+                {
+					"file": "File0325",
+					"form": "Rhaast (Quadra-kill)"
+				},
+                {
+					"file": "File0192",
+					"form": "Pentakill"
+				},
+                {
+					"file": "File0193",
+					"form": "Pentakill"
+				},
+                {
+					"file": "File0046",
+					"form": "Assassin (Pentakill)"
+				},
+                {
+					"file": "File0047",
+					"form": "Assassin (Pentakill)"
+				},
+                {
+					"file": "File0320",
+					"form": "Rhaast (Pentakill)"
+				},
+                {
+					"file": "File0321",
+					"form": "Rhaast (Pentakill)"
+				},
+                {
+					"file": "File0322",
+					"form": "Rhaast (Pentakill)"
+				},
+                {
+					"file": "File0201",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0202",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0062",
+					"form": "Assassin",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0336",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0337",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0338",
+					"form": "Rhaast",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0230",
+					"interact": "Shen"
+				},
+                {
+					"file": "File0064",
+					"form": "Assassin",
+					"interact": "Shen"
+				},
+                {
+					"file": "File0231",
+					"interact": "Varus"
+				},
+                {
+					"file": "File0339",
+					"form": "Rhaast",
+					"interact": "Varus"
+				},
+                {
+					"file": "File0232",
+					"interact": "Zed",
+					"ignore": [ "el_GR" ]
+				},
+                {
+					"file": "File0233",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0234",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0235",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0236",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0065",
+					"form": "Assassin",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0340",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0341",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0342",
+					"form": "Rhaast",
+					"interact": "Zed"
+				},
+                {
+					"file": "File0216",
+					"interact": "Noxian"
+				},
+                {
+					"file": "File0217",
+					"interact": "Noxian"
+				},
+                {
+					"file": "File0063",
+					"form": "Assassin",
+					"interact": "Noxian"
+				},
+                {
+					"file": "File0436",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0437",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0438",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0117",
+					"form": "Assassin",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0118",
+					"form": "Assassin",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0119",
+					"form": "Assassin",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0120",
+					"form": "Assassin",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0405",
+					"form": "Rhaast",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0406",
+					"form": "Rhaast",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0407",
+					"form": "Rhaast",
+					"interact": "Ward"
+				},
+                {
+					"file": "File0180",
+					"skill": "R"
+				},
+                {
+					"file": "File0181",
+					"skill": "R"
+				},
+                {
+					"file": "File0183",
+					"skill": "R"
+				},
+                {
+					"file": "File0184",
+					"skill": "R"
+				},
+                {
+					"file": "File0185",
+					"skill": "R"
+				},
+                {
+					"file": "File0039",
+					"skill": "R",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0040",
+					"skill": "R",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0041",
+					"skill": "R",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0042",
+					"skill": "R",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0311",
+					"skill": "R",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0312",
+					"skill": "R",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0313",
+					"skill": "R",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0314",
+					"skill": "R",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0315",
+					"skill": "R",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {"file": "File0152"},
+                {"file": "File0153"},
+                {"file": "File0154"},
+                {"file": "File0155"},
+                {"file": "File0156"},
+                {"file": "File0157"},
+                {"file": "File0158"},
+                {
+					"file": "File0022",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0023",
+					"form": "Assassin"
+				}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0272",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0273",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0274",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0275",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0088",
+					"form": "Assassin",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0089",
+					"form": "Assassin",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0364",
+					"form": "Rhaast",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0365",
+					"form": "Rhaast",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0366",
+					"form": "Rhaast",
+                    "skill": "Recall"
+                },
+                {
+					"file": "File0432",
+					"skill": "E"
+				},
+                {
+					"file": "File0433",
+					"skill": "E"
+				},
+                {
+					"file": "File0434",
+					"skill": "E"
+				},
+                {
+					"file": "File0435",
+					"skill": "E"
+				},
+                {
+					"file": "File0115",
+					"form": "Assassin",
+					"skill": "E"
+				},
+                {
+					"file": "File0116",
+					"form": "Assassin",
+					"skill": "E"
+				},
+                {
+					"file": "File0403",
+					"form": "Rhaast",
+					"skill": "E"
+				},
+                {
+					"file": "File0404",
+					"form": "Rhaast",
+					"skill": "E"
+				}
+            ]
+        },
+        {
+            "id": "WARD",
+            "voices": [
+                {"file": "File0429"},
+                {"file": "File0430"},
+                {"file": "File0431"},
+                {
+					"file": "File0112",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0113",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0114",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0400",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0401",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0402",
+					"form": "Rhaast"
+				}
+            ]
+        },
+        {
+            "id": "SPECIAL",
+            "voices": [
+                {"file": "File0418"},
+                {
+					"file": "File0103",
+					"form": "Assassin"
+				},
+                {
+					"file": "File0378",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0379",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0380",
+					"form": "Rhaast"
+				},
+                {
+					"file": "File0036",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0037",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0038",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0108",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0109",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0110",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0111",
+					"form": "Assassin Transformation"
+				},
+                {
+					"file": "File0309",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0310",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0388",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0389",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0390",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0391",
+					"form": "Rhaast Transformation"
+				},
+                {
+					"file": "File0392",
+					"form": "Rhaast Transformation"
+				}
+            ]
+        }
+    ]
+}

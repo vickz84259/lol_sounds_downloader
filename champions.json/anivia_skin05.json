@@ -1,0 +1,135 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0032"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"},
+                {"file": "File0039"},
+                {"file": "File0040"},
+                {"file": "File0041"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0042"},
+                {"file": "File0043"},
+                {"file": "File0044"},
+                {"file": "File0045"},
+                {"file": "File0046"},
+                {"file": "File0047"},
+                {"file": "File0048"},
+                {"file": "File0049"},
+                {"file": "File0050"},
+                {"file": "File0051"},
+                {"file": "File0052"},
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"},
+                {"file": "File0057"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {
+                    "file": "File0020",
+                    "interact": "Ashe"
+                },
+                {
+                    "file": "File0021",
+                    "interact": "Ashe"
+                },
+                {
+                    "file": "File0022",
+                    "interact": "Sejuani"
+                },
+                {
+                    "file": "File0023",
+                    "interact": "Sejuani"
+                },
+                {
+                    "file": "File0024",
+                    "interact": "Lissandra"
+                },
+                {
+                    "file": "File0025",
+                    "interact": "Lissandra"
+                },
+                {"file": "File0058"},
+                {"file": "File0059"}
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0026"},
+                {"file": "File0027"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {"file": "File0031"}
+            ]
+        }
+    ]
+}

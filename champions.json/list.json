@@ -1,0 +1,1312 @@
+{"champions": [
+  {
+    "codename": "Announcer_Global_Female1",
+    "name": "Classic Announcer",
+    "icon": "female_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Announcer_Global_Male",
+    "name": "Male Announcer",
+    "icon": "male_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Announcer_LookToTheStars_VO",
+    "name": "Aurelion Announcer",
+    "icon": "aurelion_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Announcer_Global_Thresh",
+    "name": "Dark Star Announcer",
+    "icon": "darkstar_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Announcer_Global_Ahri",
+    "name": "Star Guardian Announcer",
+    "icon": "starguardian_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Announcer_Global_Female1PROJECT",
+    "name": "PROJECT Announcer",
+    "icon": "female_project_announcer_thumbnail.jpg"
+  },
+  {
+    "codename": "Aatrox_Base",
+    "name": "Aatrox",
+    "icon": "aatrox_thumbnail.jpg"
+  },
+  {
+    "codename": "Aatrox_Skin02",
+    "name": "Mecha Aatrox",
+    "icon": "aatrox_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Ahri_Base",
+    "name": "Ahri",
+    "icon": "ahri_thumbnail.jpg"
+  },
+  {
+    "codename": "Ahri_Skin04",
+    "name": "Popstar Ahri",
+    "icon": "ahri_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Ahri_Skin14",
+    "name": "Star Guardian Ahri",
+    "icon": "ahri_skin14_thumbnail.jpg"
+  },
+  {
+    "codename": "Akali_Base",
+    "name": "Akali",
+    "icon": "akali_thumbnail.jpg"
+  },
+  {
+    "codename": "Alistar_Base",
+    "name": "Alistar",
+    "icon": "alistar_thumbnail.jpg"
+  },
+  {
+    "codename": "Amumu_Base",
+    "name": "Amumu",
+    "icon": "amumu_thumbnail.jpg"
+  },
+  {
+    "codename": "Amumu_Skin07",
+    "name": "Sad Robot Amumu",
+    "icon": "amumu_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "Anivia_Base",
+    "name": "Anivia",
+    "icon": "anivia_thumbnail.jpg"
+  },
+  {
+    "codename": "Anivia_Skin05",
+    "name": "Blackfrost Anivia",
+    "icon": "anivia_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Annie_Base",
+    "name": "Annie",
+    "icon": "annie_thumbnail.jpg"
+  },
+  {
+    "codename": "Ashe_Base",
+    "name": "Ashe",
+    "icon": "ashe_thumbnail.jpg"
+  },
+  {
+    "codename": "Ashe_Skin08",
+    "name": "PROJECT: Ashe",
+    "icon": "ashe_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "AurelionSol_Base",
+    "name": "Aurelion Sol",
+    "icon": "aurelionsol_thumbnail.jpg"
+  },
+  {
+    "codename": "Azir_Base",
+    "name": "Azir",
+    "icon": "azir_thumbnail.jpg"
+  },
+  {
+    "codename": "Azir_Skin02",
+    "name": "Gravelord Azir",
+    "icon": "azir_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Bard_Base",
+    "name": "Bard",
+    "icon": "bard_thumbnail.jpg"
+  },
+  {
+    "codename": "Blitzcrank_Base",
+    "name": "Blitzcrank",
+    "icon": "blitzcrank_thumbnail.jpg"
+  },
+  {
+    "codename": "Blitzcrank_Skin20",
+    "name": "Lancer Rogue Blitzcrank",
+    "icon": "blitzcrank_skin20_thumbnail.jpg"
+  },
+  {
+    "codename": "Blitzcrank_Skin21",
+    "name": "Lancer Paragon Blitzcrank",
+    "icon": "blitzcrank_skin21_thumbnail.jpg"
+  },
+  {
+    "codename": "Brand_Base",
+    "name": "Brand",
+    "icon": "brand_thumbnail.jpg"
+  },
+  {
+    "codename": "Brand_Skin04",
+    "name": "Zombie Brand",
+    "icon": "brand_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Brand_Skin06",
+    "name": "Battle Boss Brand",
+    "icon": "brand_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Braum_Base",
+    "name": "Braum",
+    "icon": "braum_thumbnail.jpg"
+  },
+  {
+    "codename": "Braum_Skin02",
+    "name": "El Tigre Braum",
+    "icon": "braum_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Caitlyn_Base",
+    "name": "Caitlyn",
+    "icon": "caitlyn_thumbnail.jpg"
+  },
+  {
+    "codename": "Caitlyn_Skin11",
+    "name": "Pulsefire Caitlyn",
+    "icon": "caitlyn_skin11_thumbnail.jpg"
+  },
+  {
+    "codename": "Camille_Base",
+    "name": "Camille",
+    "icon": "camille_thumbnail.jpg"
+  },
+  {
+    "codename": "Camille_Skin01",
+    "name": "Program Camille",
+    "icon": "camille_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Cassiopeia_Base",
+    "name": "Cassiopeia",
+    "icon": "cassiopeia_thumbnail.jpg"
+  },
+  {
+    "codename": "Cassiopeia_Skin08",
+    "name": "Eternum Cassiopeia",
+    "icon": "cassiopeia_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Chogath_Base",
+    "name": "Cho'Gath",
+    "icon": "chogath_thumbnail.jpg"
+  },
+  {
+    "codename": "Chogath_Skin02",
+    "name": "Gentleman Cho'Gath",
+    "icon": "chogath_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Chogath_Skin05",
+    "name": "Battlecast Prime Cho'Gath",
+    "icon": "chogath_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Corki_Base",
+    "name": "Corki",
+    "icon": "corki_thumbnail.jpg"
+  },
+  {
+    "codename": "Darius_Base",
+    "name": "Darius",
+    "icon": "darius_thumbnail.jpg"
+  },
+  {
+    "codename": "Darius_Skin04",
+    "name": "Dunkmaster Darius",
+    "icon": "darius_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Diana_Base",
+    "name": "Diana",
+    "icon": "diana_thumbnail.jpg"
+  },
+  {
+    "codename": "Draven_Base",
+    "name": "Draven",
+    "icon": "draven_thumbnail.jpg"
+  },
+  {
+    "codename": "Draven_Skin01",
+    "name": "Soul Reaver Draven",
+    "icon": "draven_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Draven_Skin03",
+    "name": "Primetime Draven",
+    "icon": "draven_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Ekko_Base",
+    "name": "Ekko",
+    "icon": "ekko_thumbnail.jpg"
+  },
+  {
+    "codename": "Ekko_Skin03",
+    "name": "PROJECT: Ekko",
+    "icon": "ekko_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Elise_Base",
+    "name": "Elise",
+    "icon": "elise_thumbnail.jpg"
+  },
+  {
+    "codename": "Evelynn_New",
+    "name": "Evelynn",
+    "icon": "newevelynn_thumbnail.jpg"
+  },
+  {
+    "codename": "Evelynn_Base",
+    "name": "Old Evelynn",
+    "icon": "evelynn_thumbnail.jpg"
+  },
+  {
+    "codename": "Ezreal_Base",
+    "name": "Ezreal",
+    "icon": "ezreal_thumbnail.jpg"
+  },
+  {
+    "codename": "Ezreal_Skin05",
+    "name": "Pulsefire Ezreal",
+    "icon": "ezreal_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Fiddlesticks_Base",
+    "name": "Fiddlesticks",
+    "icon": "fiddlesticks_thumbnail.jpg"
+  },
+  {
+    "codename": "Fiora_Base",
+    "name": "Fiora",
+    "icon": "fiora_thumbnail.jpg"
+  },
+  {
+    "codename": "Fiora_Skin04",
+    "name": "PROJECT: Fiora",
+    "icon": "fiora_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Fizz_Base",
+    "name": "Fizz",
+    "icon": "fizz_thumbnail.jpg"
+  },
+  {
+    "codename": "Fizz_Skin04",
+    "name": "Void Fizz",
+    "icon": "fizz_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Galio_New",
+    "name": "Galio",
+    "icon": "newgalio_thumbnail.jpg"
+  },
+  {
+    "codename": "Galio_New_Skin04",
+    "name": "Gatekeeper Galio",
+    "icon": "newgalio_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Galio_Base",
+    "name": "Old Galio",
+    "icon": "galio_thumbnail.jpg"
+  },
+  {
+    "codename": "Galio_Skin04",
+    "name": "Old Gatekeeper Galio",
+    "icon": "galio_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Gangplank_New",
+    "name": "Gangplank",
+    "icon": "gangplank_thumbnail.jpg"
+  },
+  {
+    "codename": "Gangplank_Skin05",
+    "name": "Special Forces Gangplank",
+    "icon": "gangplank_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Gangplank_Skin06",
+    "name": "Sultan Gangplank",
+    "icon": "gangplank_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Gangplank_Skin07",
+    "name": "Captain Gangplank",
+    "icon": "gangplank_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "Gangplank_Base",
+    "name": "Old Gangplank",
+    "icon": "oldgangplank_thumbnail.jpg"
+  },
+  {
+    "codename": "Garen_Base",
+    "name": "Garen",
+    "icon": "garen_thumbnail.jpg"
+  },
+  {
+    "codename": "Gnar_Base",
+    "name": "Gnar",
+    "icon": "gnar_thumbnail.jpg"
+  },
+  {
+    "codename": "Gragas_Base",
+    "name": "Gragas",
+    "icon": "gragas_thumbnail.jpg"
+  },
+  {
+    "codename": "Graves_Base",
+    "name": "Graves",
+    "icon": "graves_thumbnail.jpg"
+  },
+  {
+    "codename": "Hecarim_Base",
+    "name": "Hecarim",
+    "icon": "hecarim_thumbnail.jpg"
+  },
+  {
+    "codename": "Hecarim_Skin04",
+    "name": "Arcade Hecarim",
+    "icon": "hecarim_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Heimerdinger_Base",
+    "name": "Heimerdinger",
+    "icon": "heimerdinger_thumbnail.jpg"
+  },
+  {
+    "codename": "Illaoi_Base",
+    "name": "Illaoi",
+    "icon": "illaoi_thumbnail.jpg"
+  },
+  {
+    "codename": "Illaoi_Skin01",
+    "name": "Void Bringer Illaoi",
+    "icon": "illaoi_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Irelia_Base",
+    "name": "Irelia",
+    "icon": "irelia_thumbnail.jpg"
+  },
+  {
+    "codename": "Ivern_Base",
+    "name": "Ivern",
+    "icon": "ivern_thumbnail.jpg"
+  },
+  {
+    "codename": "Ivern_Skin01",
+    "name": "Candy King Ivern",
+    "icon": "ivern_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Janna_Base",
+    "name": "Janna",
+    "icon": "janna_thumbnail.jpg"
+  },
+  {
+    "codename": "Janna_Skin05",
+    "name": "Forecast Janna",
+    "icon": "janna_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "JarvanIV_Base",
+    "name": "Jarvan IV",
+    "icon": "jarvaniv_thumbnail.jpg"
+  },
+  {
+    "codename": "Jax_Base",
+    "name": "Jax",
+    "icon": "jax_thumbnail.jpg"
+  },
+  {
+    "codename": "Jayce_Base",
+    "name": "Jayce",
+    "icon": "jayce_thumbnail.jpg"
+  },
+  {
+    "codename": "Jayce_Skin01",
+    "name": "Full Metal Jayce",
+    "icon": "jayce_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Jayce_Skin03",
+    "name": "Forsaken Jayce",
+    "icon": "jayce_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Jhin_Base",
+    "name": "Jhin",
+    "icon": "jhin_thumbnail.jpg"
+  },
+  {
+    "codename": "Jhin_Skin01",
+    "name": "High Noon Jhin",
+    "icon": "jhin_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Jhin_Skin02",
+    "name": "Blood Moon Jhin",
+    "icon": "jhin_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Jhin_Skin04",
+    "name": "PROJECT: Jhin",
+    "icon": "jhin_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Jinx_Base",
+    "name": "Jinx",
+    "icon": "jinx_thumbnail.jpg"
+  },
+  {
+    "codename": "Jinx_Skin04",
+    "name": "Star Guardian Jinx",
+    "icon": "jinx_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Kalista_Base",
+    "name": "Kalista",
+    "icon": "kalista_thumbnail.jpg"
+  },
+  {
+    "codename": "Karma_Base",
+    "name": "Karma",
+    "icon": "karma_thumbnail.jpg"
+  },
+  {
+    "codename": "Karma_Skin03",
+    "name": "Traditional Karma",
+    "icon": "karma_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Karthus_Base",
+    "name": "Karthus",
+    "icon": "karthus_thumbnail.jpg"
+  },
+  {
+    "codename": "Karthus_Skin04",
+    "name": "Pentakill Karthus",
+    "icon": "karthus_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Kassadin_Base",
+    "name": "Kassadin",
+    "icon": "kassadin_thumbnail.jpg"
+  },
+  {
+    "codename": "Kassadin_Skin05",
+    "name": "Cosmic Reaver Kassadin",
+    "icon": "kassadin_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Katarina_Base",
+    "name": "Katarina",
+    "icon": "katarina_thumbnail.jpg"
+  },
+  {
+    "codename": "Katarina_Skin09",
+    "name": "PROJECT: Katarina",
+    "icon": "katarina_skin09_thumbnail.jpg"
+  },
+  {
+    "codename": "Kayle_Base",
+    "name": "Kayle",
+    "icon": "kayle_thumbnail.jpg"
+  },
+  {
+    "codename": "Kayle_Skin06",
+    "name": "Aether Wing Kayle",
+    "icon": "kayle_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Kayn_Base",
+    "name": "Kayn",
+    "icon": "kayn_thumbnail.jpg"
+  },
+  {
+    "codename": "Kennen_Base",
+    "name": "Kennen",
+    "icon": "kennen_thumbnail.jpg"
+  },
+  {
+    "codename": "Khazix_Base",
+    "name": "Kha'Zix",
+    "icon": "khazix_thumbnail.jpg"
+  },
+  {
+    "codename": "Khazix_Skin01",
+    "name": "Mecha Kha'Zix",
+    "icon": "khazix_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Kindred_Base",
+    "name": "Kindred",
+    "icon": "kindred_thumbnail.jpg"
+  },
+  {
+    "codename": "Kled_Base",
+    "name": "Kled",
+    "icon": "kled_thumbnail.jpg"
+  },
+  {
+    "codename": "Kogmaw_Base",
+    "name": "Kog'Maw",
+    "icon": "kogmaw_thumbnail.jpg"
+  },
+  {
+    "codename": "Kogmaw_Skin04",
+    "name": "Reindeer Kog'Maw",
+    "icon": "kogmaw_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Kogmaw_Skin08",
+    "name": "Battlecast Kog'Maw",
+    "icon": "kogmaw_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Leblanc_Base",
+    "name": "LeBlanc",
+    "icon": "leblanc_thumbnail.jpg"
+  },
+  {
+    "codename": "LeeSin_Base",
+    "name": "Lee Sin",
+    "icon": "leesin_thumbnail.jpg"
+  },
+  {
+    "codename": "LeeSin_Skin11",
+    "name": "God Fist Lee Sin",
+    "icon": "leesin_skin11_thumbnail.jpg"
+  },
+  {
+    "codename": "Leona_Base",
+    "name": "Leona",
+    "icon": "leona_thumbnail.jpg"
+  },
+  {
+    "codename": "Leona_Skin08",
+    "name": "PROJECT: Leona",
+    "icon": "leona_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Lissandra_Base",
+    "name": "Lissandra",
+    "icon": "lissandra_thumbnail.jpg"
+  },
+  {
+    "codename": "Lissandra_Skin03",
+    "name": "Program Lissandra",
+    "icon": "lissandra_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Lucian_Base",
+    "name": "Lucian",
+    "icon": "lucian_thumbnail.jpg"
+  },
+  {
+    "codename": "Lucian_Skin06",
+    "name": "PROJECT: Lucian",
+    "icon": "lucian_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Lulu_Base",
+    "name": "Lulu",
+    "icon": "lulu_thumbnail.jpg"
+  },
+  {
+    "codename": "Lux_New",
+    "name": "Lux",
+    "icon": "newlux_thumbnail.jpg"
+  },
+  {
+    "codename": "Lux_Skin07",
+    "name": "Elementalist Lux",
+    "icon": "lux_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "Lux_Base",
+    "name": "Old Lux",
+    "icon": "lux_thumbnail.jpg"
+  },
+  {
+    "codename": "Malphite_Base",
+    "name": "Malphite",
+    "icon": "malphite_thumbnail.jpg"
+  },
+  {
+    "codename": "Malphite_Skin06",
+    "name": "Mecha Malphite",
+    "icon": "malphite_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Malzahar_Base",
+    "name": "Malzahar",
+    "icon": "malzahar_thumbnail.jpg"
+  },
+  {
+    "codename": "Malzahar_Skin06",
+    "name": "Battle Boss Malzahar",
+    "icon": "malzahar_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Maokai_New",
+    "name": "Maokai",
+    "icon": "newmaokai_thumbnail.jpg"
+  },
+  {
+    "codename": "Maokai_Base",
+    "name": "Old Maokai",
+    "icon": "maokai_thumbnail.jpg"
+  },
+  {
+    "codename": "MasterYi_Base",
+    "name": "Master Yi",
+    "icon": "masteryi_thumbnail.jpg"
+  },
+  {
+    "codename": "MasterYi_Skin09",
+    "name": "PROJECT: Yi",
+    "icon": "masteryi_skin09_thumbnail.jpg"
+  },
+  {
+    "codename": "MasterYi_Skin10",
+    "name": "Cosmic Blade Master Yi",
+    "icon": "masteryi_skin10_thumbnail.jpg"
+  },
+  {
+    "codename": "MissFortune_Base",
+    "name": "Miss Fortune",
+    "icon": "missfortune_thumbnail.jpg"
+  },
+  {
+    "codename": "Mordekaiser_Base",
+    "name": "Mordekaiser",
+    "icon": "mordekaiser_thumbnail.jpg"
+  },
+  {
+    "codename": "Morgana_Base",
+    "name": "Morgana",
+    "icon": "morgana_thumbnail.jpg"
+  },
+  {
+    "codename": "Morgana_Skin05",
+    "name": "Ghost Bride Morgana",
+    "icon": "morgana_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "DrMundo_Base",
+    "name": "Dr. Mundo",
+    "icon": "drmundo_thumbnail.jpg"
+  },
+  {
+    "codename": "DrMundo_Skin03",
+    "name": "Corporate Mundo",
+    "icon": "drmundo_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "NPC_Map10",
+    "name": "NPCs Twisted Treeline",
+    "icon": "npc_map10_thumbnail.jpg"
+  },
+  {
+    "codename": "NPC_Map12",
+    "name": "NPCs Howling Abyss",
+    "icon": "npc_map12_thumbnail.jpg"
+  },
+  {
+    "codename": "Nami_Base",
+    "name": "Nami",
+    "icon": "nami_thumbnail.jpg"
+  },
+  {
+    "codename": "Nami_Skin02",
+    "name": "River Spirit Nami",
+    "icon": "nami_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Nami_Skin07",
+    "name": "Deep Sea Nami",
+    "icon": "nami_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "Nasus_Base",
+    "name": "Nasus",
+    "icon": "nasus_thumbnail.jpg"
+  },
+  {
+    "codename": "Nasus_Skin05",
+    "name": "Infernal Nasus",
+    "icon": "nasus_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Nautilus_Base",
+    "name": "Nautilus",
+    "icon": "nautilus_thumbnail.jpg"
+  },
+  {
+    "codename": "Nidalee_Base",
+    "name": "Nidalee",
+    "icon": "nidalee_thumbnail.jpg"
+  },
+  {
+    "codename": "Nocturne_Base",
+    "name": "Nocturne",
+    "icon": "nocturne_thumbnail.jpg"
+  },
+  {
+    "codename": "Nocturne_Skin05",
+    "name": "Eternum Nocturne",
+    "icon": "nocturne_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Nunu_Base",
+    "name": "Nunu",
+    "icon": "nunu_thumbnail.jpg"
+  },
+  {
+    "codename": "Nunu_Skin04",
+    "name": "Nunu Bot",
+    "icon": "nunu_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Olaf_Base",
+    "name": "Olaf",
+    "icon": "olaf_thumbnail.jpg"
+  },
+  {
+    "codename": "Olaf_Skin03",
+    "name": "Brolaf",
+    "icon": "olaf_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Orianna_Base",
+    "name": "Orianna",
+    "icon": "orianna_thumbnail.jpg"
+  },
+  {
+    "codename": "Ornn_Base",
+    "name": "Ornn",
+    "icon": "ornn_thumbnail.jpg"
+  },
+  {
+    "codename": "Pantheon_Base",
+    "name": "Pantheon",
+    "icon": "pantheon_thumbnail.jpg"
+  },
+  {
+    "codename": "Poppy_New",
+    "name": "Poppy",
+    "icon": "newpoppy_thumbnail.jpg"
+  },
+  {
+    "codename": "Poppy_Base",
+    "name": "Old Poppy",
+    "icon": "poppy_thumbnail.jpg"
+  },
+  {
+    "codename": "Quinn_Base",
+    "name": "Quinn",
+    "icon": "quinn_thumbnail.jpg"
+  },
+  {
+    "codename": "Rakan_Base",
+    "name": "Rakan",
+    "icon": "rakan_thumbnail.jpg"
+  },
+  {
+    "codename": "Rammus_Base",
+    "name": "Rammus",
+    "icon": "rammus_thumbnail.jpg"
+  },
+  {
+    "codename": "Reksai_Base",
+    "name": "Rek'Sai",
+    "icon": "reksai_thumbnail.jpg"
+  },
+  {
+    "codename": "Reksai_Skin01",
+    "name": "Eternum Rek'Sai",
+    "icon": "reksai_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Renekton_Base",
+    "name": "Renekton",
+    "icon": "renekton_thumbnail.jpg"
+  },
+  {
+    "codename": "Rengar_Base",
+    "name": "Rengar",
+    "icon": "rengar_thumbnail.jpg"
+  },
+  {
+    "codename": "Rengar_Skin08",
+    "name": "Mecha Rengar",
+    "icon": "rengar_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Riven_Base",
+    "name": "Riven",
+    "icon": "riven_thumbnail.jpg"
+  },
+  {
+    "codename": "Riven_Skin16",
+    "name": "Dawnbringer Riven",
+    "icon": "riven_skin16_thumbnail.jpg"
+  },
+  {
+    "codename": "Rumble_Base",
+    "name": "Rumble",
+    "icon": "rumble_thumbnail.jpg"
+  },
+  {
+    "codename": "Rumble_Skin03",
+    "name": "Super Galaxy Rumble",
+    "icon": "rumble_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Ryze_New",
+    "name": "Ryze",
+    "icon": "newryze_thumbnail.jpg"
+  },
+  {
+    "codename": "Ryze_Base",
+    "name": "Old Ryze",
+    "icon": "ryze_thumbnail.jpg"
+  },
+  {
+    "codename": "Sejuani_Base",
+    "name": "Sejuani",
+    "icon": "sejuani_thumbnail.jpg"
+  },
+  {
+    "codename": "Sejuani_Skin03",
+    "name": "Traditional Sejuani",
+    "icon": "sejuani_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Shaco_Base",
+    "name": "Shaco",
+    "icon": "shaco_thumbnail.jpg"
+  },
+  {
+    "codename": "Shen_Base",
+    "name": "Shen",
+    "icon": "shen_thumbnail.jpg"
+  },
+  {
+    "codename": "Shyvana_Base",
+    "name": "Shyvana",
+    "icon": "shyvana_thumbnail.jpg"
+  },
+  {
+    "codename": "Singed_Base",
+    "name": "Singed",
+    "icon": "singed_thumbnail.jpg"
+  },
+  {
+    "codename": "Sion_Base",
+    "name": "Sion",
+    "icon": "sion_thumbnail.jpg"
+  },
+  {
+    "codename": "Sion_Skin05",
+    "name": "Mecha Zero Sion",
+    "icon": "sion_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Sivir_Base",
+    "name": "Sivir",
+    "icon": "sivir_thumbnail.jpg"
+  },
+  {
+    "codename": "Skarner_Base",
+    "name": "Skarner",
+    "icon": "skarner_thumbnail.jpg"
+  },
+  {
+    "codename": "Skarner_Skin03",
+    "name": "Battlecast Alpha Skarner",
+    "icon": "skarner_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Sona_Base",
+    "name": "Sona",
+    "icon": "sona_thumbnail.jpg"
+  },
+  {
+    "codename": "Sona_Skin03",
+    "name": "Silent Night Sona",
+    "icon": "sona_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Sona_Skin04",
+    "name": "Guqin Sona",
+    "icon": "sona_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Sona_Skin05",
+    "name": "Arcade Sona",
+    "icon": "sona_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Sona_Skin06",
+    "name": "DJ Sona",
+    "icon": "sona_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Soraka_Base",
+    "name": "Soraka",
+    "icon": "soraka_thumbnail.jpg"
+  },
+  {
+    "codename": "Soraka_Skin04",
+    "name": "Reaper Soraka",
+    "icon": "soraka_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Soraka_Skin06",
+    "name": "Program Soraka",
+    "icon": "soraka_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "SFX",
+    "name": "Sound Effects",
+    "icon": "sfx_thumbnail.jpg"
+  },
+  {
+    "codename": "Swain_Base",
+    "name": "Swain",
+    "icon": "swain_thumbnail.jpg"
+  },
+  {
+    "codename": "Syndra_Base",
+    "name": "Syndra",
+    "icon": "syndra_thumbnail.jpg"
+  },
+  {
+    "codename": "TahmKench_Base",
+    "name": "Tahm Kench",
+    "icon": "tahmkench_thumbnail.jpg"
+  },
+  {
+    "codename": "Taliyah_Base",
+    "name": "Taliyah",
+    "icon": "taliyah_thumbnail.jpg"
+  },
+  {
+    "codename": "Taliyah_Skin01",
+    "name": "Freljord Taliyah",
+    "icon": "taliyah_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Talon_Base",
+    "name": "Talon",
+    "icon": "talon_thumbnail.jpg"
+  },
+  {
+    "codename": "Taric_New",
+    "name": "Taric",
+    "icon": "newtaric_thumbnail.jpg"
+  },
+  {
+    "codename": "Taric_Base",
+    "name": "Old Taric",
+    "icon": "taric_thumbnail.jpg"
+  },
+  {
+    "codename": "Teemo_Base",
+    "name": "Teemo",
+    "icon": "teemo_thumbnail.jpg"
+  },
+  {
+    "codename": "Teemo_Skin04",
+    "name": "Astronaut Teemo",
+    "icon": "teemo_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Teemo_Skin08",
+    "name": "Omega Squad Teemo",
+    "icon": "teemo_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Thresh_Base",
+    "name": "Thresh",
+    "icon": "thresh_thumbnail.jpg"
+  },
+  {
+    "codename": "Thresh_Skin05",
+    "name": "Dark Star Thresh",
+    "icon": "thresh_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Tristana_Base",
+    "name": "Tristana",
+    "icon": "tristana_thumbnail.jpg"
+  },
+  {
+    "codename": "Tristana_Skin10",
+    "name": "Dragon Trainer Tristana",
+    "icon": "tristana_skin10_thumbnail.jpg"
+  },
+  {
+    "codename": "Trundle_Base",
+    "name": "Trundle",
+    "icon": "trundle_thumbnail.jpg"
+  },
+  {
+    "codename": "Trundle_Skin03",
+    "name": "Traditional Trundle",
+    "icon": "trundle_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Tryndamere_Base",
+    "name": "Tryndamere",
+    "icon": "tryndamere_thumbnail.jpg"
+  },
+  {
+    "codename": "Tryndamere_Skin04",
+    "name": "Demonblade Tryndamere",
+    "icon": "tryndamere_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Tryndamere_Skin05",
+    "name": "Sultan Tryndamere",
+    "icon": "tryndamere_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "TwistedFate_Base",
+    "name": "Twisted Fate",
+    "icon": "twistedfate_thumbnail.jpg"
+  },
+  {
+    "codename": "Twitch_Base",
+    "name": "Twitch",
+    "icon": "twitch_thumbnail.jpg"
+  },
+  {
+    "codename": "Udyr_Base",
+    "name": "Udyr",
+    "icon": "udyr_thumbnail.jpg"
+  },
+  {
+    "codename": "Udyr_Skin03",
+    "name": "Spirit Guard Udyr",
+    "icon": "udyr_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Urgot_New",
+    "name": "Urgot",
+    "icon": "newurgot_thumbnail.jpg"
+  },
+  {
+    "codename": "Urgot_Skin01",
+    "name": "Giant Enemy Crabgot",
+    "icon": "urgot_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Urgot_Skin03",
+    "name": "Battlecast Urgot",
+    "icon": "urgot_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Urgot_Base",
+    "name": "Old Urgot",
+    "icon": "urgot_thumbnail.jpg"
+  },
+  {
+    "codename": "Varus_Base",
+    "name": "Varus",
+    "icon": "varus_thumbnail.jpg"
+  },
+  {
+    "codename": "Vayne_Base",
+    "name": "Vayne",
+    "icon": "vayne_thumbnail.jpg"
+  },
+  {
+    "codename": "Vayne_Skin11",
+    "name": "PROJECT: Vayne",
+    "icon": "vayne_skin11_thumbnail.jpg"
+  },
+  {
+    "codename": "Veigar_Base",
+    "name": "Veigar",
+    "icon": "veigar_thumbnail.jpg"
+  },
+  {
+    "codename": "Veigar_Skin08",
+    "name": "Final Boss Veigar",
+    "icon": "veigar_skin08_thumbnail.jpg"
+  },
+  {
+    "codename": "Velkoz_Base",
+    "name": "Vel'Koz",
+    "icon": "velkoz_thumbnail.jpg"
+  },
+  {
+    "codename": "Velkoz_Skin01",
+    "name": "Battlecast Vel'Koz",
+    "icon": "velkoz_skin01_thumbnail.jpg"
+  },
+  {
+    "codename": "Velkoz_Skin02",
+    "name": "Arclight Vel'Koz",
+    "icon": "velkoz_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Vi_Base",
+    "name": "Vi",
+    "icon": "vi_thumbnail.jpg"
+  },
+  {
+    "codename": "Vi_Skin04",
+    "name": "Demon Vi",
+    "icon": "vi_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "Vi_Skin11",
+    "name": "PROJECT: Vi",
+    "icon": "vi_skin11_thumbnail.jpg"
+  },
+  {
+    "codename": "Viktor_Base",
+    "name": "Viktor",
+    "icon": "viktor_thumbnail.jpg"
+  },
+  {
+    "codename": "Vladimir_Base",
+    "name": "Vladimir",
+    "icon": "vladimir_thumbnail.jpg"
+  },
+  {
+    "codename": "Vladimir_Skin05",
+    "name": "Blood Lord Vladimir",
+    "icon": "vladimir_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Volibear_Base",
+    "name": "Volibear",
+    "icon": "volibear_thumbnail.jpg"
+  },
+  {
+    "codename": "Warwick_New",
+    "name": "Warwick",
+    "icon": "newwarwick_thumbnail.jpg"
+  },
+  {
+    "codename": "Warwick_New_Skin07",
+    "name": "Hyena Warwick",
+    "icon": "newwarwick_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "Warwick_Base",
+    "name": "Old Warwick",
+    "icon": "warwick_thumbnail.jpg"
+  },
+  {
+    "codename": "Warwick_Skin07",
+    "name": "Old Hyena Warwick",
+    "icon": "warwick_skin07_thumbnail.jpg"
+  },
+  {
+    "codename": "MonkeyKing_Base",
+    "name": "Wukong",
+    "icon": "monkeyking_thumbnail.jpg"
+  },
+  {
+    "codename": "MonkeyKing_Skin04",
+    "name": "Underworld Wukong",
+    "icon": "monkeyking_skin04_thumbnail.jpg"
+  },
+  {
+    "codename": "MonkeyKing_Skin05",
+    "name": "Radiant Wukong",
+    "icon": "monkeyking_skin05_thumbnail.jpg"
+  },
+  {
+    "codename": "Xayah_Base",
+    "name": "Xayah",
+    "icon": "xayah_thumbnail.jpg"
+  },
+  {
+    "codename": "Xerath_Base",
+    "name": "Xerath",
+    "icon": "xerath_thumbnail.jpg"
+  },
+  {
+    "codename": "XinZhao_Base",
+    "name": "Xin Zhao",
+    "icon": "xinzhao_thumbnail.jpg"
+  },
+  {
+    "codename": "Yasuo_Base",
+    "name": "Yasuo",
+    "icon": "yasuo_thumbnail.jpg"
+  },
+  {
+    "codename": "Yasuo_Skin02",
+    "name": "PROJECT: Yasuo",
+    "icon": "yasuo_skin02_thumbnail.jpg"
+  },
+  {
+    "codename": "Yasuo_Skin09",
+    "name": "Nightbringer Yasuo",
+    "icon": "yasuo_skin09_thumbnail.jpg"
+  },
+  {
+    "codename": "Yorick_New",
+    "name": "Yorick",
+    "icon": "newyorick_thumbnail.jpg"
+  },
+  {
+    "codename": "Yorick_Base",
+    "name": "Old Yorick",
+    "icon": "yorick_thumbnail.jpg"
+  },
+  {
+    "codename": "Zac_Base",
+    "name": "Zac",
+    "icon": "zac_thumbnail.jpg"
+  },
+  {
+    "codename": "Zed_Base",
+    "name": "Zed",
+    "icon": "zed_thumbnail.jpg"
+  },
+  {
+    "codename": "Zed_Skin03",
+    "name": "PROJECT: Zed",
+    "icon": "zed_skin03_thumbnail.jpg"
+  },
+  {
+    "codename": "Ziggs_Base",
+    "name": "Ziggs",
+    "icon": "ziggs_thumbnail.jpg"
+  },
+  {
+    "codename": "Ziggs_Skin06",
+    "name": "Battle Boss Ziggs",
+    "icon": "ziggs_skin06_thumbnail.jpg"
+  },
+  {
+    "codename": "Zilean_Base",
+    "name": "Zilean",
+    "icon": "zilean_thumbnail.jpg"
+  },
+  {
+    "codename": "Zoe_Base",
+    "name": "Zoe",
+    "icon": "zoe_thumbnail.jpg"
+  },
+  {
+    "codename": "Zyra_Base",
+    "name": "Zyra",
+    "icon": "zyra_thumbnail.jpg"
+  }
+]}

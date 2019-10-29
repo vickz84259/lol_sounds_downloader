@@ -1,0 +1,529 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0048"},
+                {"file": "File0049"},
+                {"file": "File0050"},
+                {"file": "File0051"}
+            ]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0066"},
+                {"file": "File0067"},
+                {"file": "File0068"},
+                {"file": "File0069"},
+                {"file": "File0070"},
+                {"file": "File0071"},
+                {"file": "File0072"},
+                {"file": "File0073"},
+                {"file": "File0074"},
+                {"file": "File0075"},
+                {"file": "File0076"},
+                {"file": "File0077"},
+                {"file": "File0078"},
+                {"file": "File0079"},
+                {"file": "File0080"},
+                {"file": "File0081"},
+                {"file": "File0082"},
+                {"file": "File0083"},
+                {"file": "File0084"},
+                {"file": "File0085"},
+                {"file": "File0086"},
+                {"file": "File0087"},
+                {"file": "File0088"},
+                {"file": "File0089"},
+                {"file": "File0090"},
+                {"file": "File0091"},
+                {"file": "File0092"},
+                {"file": "File0093"},
+                {"file": "File0094"},
+                {"file": "File0095"},
+                {"file": "File0096"},
+                {"file": "File0097"},
+                {"file": "File0098"},
+                {"file": "File0099"},
+                {"file": "File0100"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {
+					"file": "File0036",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0037",
+					"ignore": [ "ro_RO" ]
+				},
+                {"file": "File0038"},
+                {"file": "File0039"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {
+					"file": "File0040",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0041",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0042",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0043",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0044",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0045",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0046",
+					"ignore": [ "ro_RO" ]
+				},
+                {
+					"file": "File0047",
+					"ignore": [ "ro_RO" ]
+				},
+                {"file": "File0114"},
+                {"file": "File0115"},
+                {"file": "File0116"},
+                {"file": "File0117"},
+                {"file": "File0118"},
+                {"file": "File0119"},
+                {"file": "File0120"},
+                {"file": "File0121"},
+                {"file": "File0126"},
+                {"file": "File0127"},
+                {"file": "File0128"},
+                {"file": "File0129"},
+                {"file": "File0130"},
+                {"file": "File0131"},
+                {"file": "File0132"},
+                {"file": "File0133"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0134"},
+                {"file": "File0135"},
+                {"file": "File0136"},
+                {
+                    "file": "File0137",
+                    "interact": "Alistar"
+                },
+                {
+                    "file": "File0138",
+                    "interact": "Bard"
+                },
+                {
+                    "file": "File0139",
+                    "interact": "Blitzcrank"
+                },
+                {
+                    "file": "File0140",
+                    "interact": "Blitzcrank"
+                },
+                {
+                    "file": "File0141",
+                    "interact": "Blitzcrank"
+                },
+                {
+                    "file": "File0142",
+                    "interact": "Darius"
+                },
+                {
+                    "file": "File0143",
+                    "interact": "Unknown"
+                },
+                {
+                    "file": "File0144",
+                    "interact": "Unknown"
+                },
+                {
+                    "file": "File0145",
+                    "interact": "Unknown"
+                },
+                {
+                    "file": "File0146",
+                    "interact": "Unknown"
+                },
+                {
+                    "file": "File0147",
+                    "interact": "Unknown"
+                },
+                {
+                    "file": "File0148",
+                    "interact": "Fiora"
+                },
+                {
+                    "file": "File0149",
+                    "interact": "Heimerdinger"
+                },
+                {
+                    "file": "File0150",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0151",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0152",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0153",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0154",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0155",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0156",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0157",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0158",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0159",
+                    "interact": "Human Enemy"
+                },
+                {
+                    "file": "File0160",
+                    "interact": "Illaoi"
+                },
+                {
+                    "file": "File0161",
+                    "interact": "Jax"
+                },
+                {
+                    "file": "File0162",
+                    "interact": "Jinx"
+                },
+                {
+                    "file": "File0163",
+                    "interact": "Mecha Enemy"
+                },
+                {
+                    "file": "File0164",
+                    "interact": "Mecha Enemy"
+                },
+                {
+                    "file": "File0165",
+                    "interact": "Mecha Enemy"
+                },
+                {
+                    "file": "File0166",
+                    "interact": "Mecha Enemy"
+                },
+                {
+                    "file": "File0167",
+                    "interact": "Mecha Enemy"
+                },
+                {
+                    "file": "File0168",
+                    "interact": "Poppy"
+                },
+                {
+                    "file": "File0169",
+                    "interact": "Poppy"
+                },
+                {
+                    "file": "File0170",
+                    "interact": "PROJECT Enemy"
+                },
+                {
+                    "file": "File0171",
+                    "interact": "PROJECT Enemy"
+                },
+                {
+                    "file": "File0172",
+                    "interact": "PROJECT Enemy"
+                },
+                {
+                    "file": "File0173",
+                    "interact": "Renekton"
+                },
+                {
+                    "file": "File0174",
+                    "interact": "Enemy Mecha Zero Sion",
+					"ignore": [ "es_ES" ]
+                },
+                {
+                    "file": "File0175",
+                    "interact": "Urgot"
+                },
+                {
+                    "file": "File0176",
+                    "interact": "Viktor"
+                },
+                {
+                    "file": "File0177",
+                    "interact": "Viktor"
+                }
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {
+					"file": "File0052",
+					"ignore": [ "ro_RO" ]
+				},
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {"file": "File0060"},
+                {"file": "File0061"},
+                {"file": "File0062"},
+                {"file": "File0063"},
+                {"file": "File0064"},
+                {"file": "File0065"}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {
+					"file": "File0057",
+					"interact": "Enemy Mecha"
+				},
+                {
+					"file": "File0122",
+					"interact": "Minion"
+				},
+                {
+					"file": "File0123",
+					"interact": "Minion"
+				},
+                {
+					"file": "File0124",
+					"interact": "Minion"
+				},
+                {
+					"file": "File0125",
+					"interact": "Minion"
+				}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0101",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0102",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0103",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0104",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0105",
+                    "skill": "Passive"
+                },
+                {
+                    "file": "File0106",
+                    "skill": "Passive"
+                },
+                {
+                    "file": "File0107",
+                    "skill": "Passive"
+                },
+                {
+                    "file": "File0108",
+                    "skill": "Passive"
+                },
+                {
+                    "file": "File0109",
+                    "skill": "Passive"
+                },
+                {
+                    "file": "File0110",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0111",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0112",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0113",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0178",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0179",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0180",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0181",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0182",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0183",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0184",
+                    "skill": "R"
+                }
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {"file": "File0022"},
+                {"file": "File0023"},
+                {"file": "File0024"},
+                {
+                    "file": "File0025",
+                    "item": "Trinity Force"
+                },
+                {
+                    "file": "File0026",
+                    "item": "Mercury's Treads"
+                },
+                {
+                    "file": "File0027",
+                    "item": "Dead Man's Plate"
+                },
+                {
+                    "file": "File0028",
+                    "item": "Dead Man's Plate"
+                },
+                {
+                    "file": "File0029",
+                    "item": "Dead Man's Plate"
+                },
+                {
+                    "file": "File0030",
+                    "item": "Righteous Glory"
+                },
+                {
+                    "file": "File0031",
+                    "item": "Righteous Glory"
+                },
+                {
+                    "file": "File0032",
+                    "item": "Righteous Glory"
+                },
+                {
+                    "file": "File0033",
+                    "item": "Righteous Glory"
+                }
+            ]
+        },
+        {
+            "id": "WARD",
+            "voices": [
+                {"file": "File0185"},
+                {"file": "File0186"},
+                {"file": "File0187"}
+            ]
+        }
+    ]
+}

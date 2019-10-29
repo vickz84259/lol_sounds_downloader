@@ -1,0 +1,767 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "SELECT",
+			"voices": [
+				{
+					"file": "Ornn",
+					"name": "Select"
+				},
+				{
+					"file": "Ornn_Ban",
+					"name": "Ban"
+				}
+			]
+        },
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0100"},
+                {"file": "File0101"},
+                {"file": "File0102"},
+                {"file": "File0103"},
+                {"file": "File0104"},
+                {"file": "File0105"},
+                {"file": "File0106"},
+                {"file": "File0107"},
+                {
+					"file": "File0267",
+					"interact": "Volibear"
+				},
+                {
+					"file": "File0268",
+					"interact": "Volibear"
+				},
+                {
+					"file": "File0269",
+					"interact": "Volibear"
+				}
+            ]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {"file": "File0022"},
+                {"file": "File0023"},
+                {"file": "File0024"},
+                {"file": "File0025"},
+                {"file": "File0026"},
+                {"file": "File0027"},
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {"file": "File0031"},
+                {"file": "File0032"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"},
+                {"file": "File0039"},
+                {
+					"file": "File0040",
+					"interact": "Aatrox"
+				},
+                {
+					"file": "File0041",
+					"interact": "Anivia"
+				},
+                {
+					"file": "File0042",
+					"interact": "Garen"
+				},
+                {
+					"file": "File0043",
+					"interact": "Gragas"
+				},
+                {
+					"file": "File0044",
+					"interact": "Heimerdinger"
+				},
+                {
+					"file": "File0045",
+					"interact": "Poppy"
+				},
+                {
+					"file": "File0046",
+					"interact": "Teemo"
+				},
+                {
+					"file": "File0047",
+					"interact": "Volibear",
+					"ignore": [ "en_GB" ]
+				}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0144"},
+                {"file": "File0145"},
+                {"file": "File0146"},
+                {"file": "File0147"},
+                {"file": "File0148"},
+                {"file": "File0149"},
+                {"file": "File0150"},
+                {"file": "File0151"},
+                {"file": "File0152"},
+                {"file": "File0153"},
+                {"file": "File0154"},
+                {"file": "File0155"},
+                {"file": "File0156"},
+                {"file": "File0157"},
+                {"file": "File0158"},
+                {"file": "File0159"},
+                {"file": "File0160"},
+                {"file": "File0161"},
+                {"file": "File0162"},
+                {"file": "File0163"},
+                {"file": "File0164"},
+                {"file": "File0165"},
+                {"file": "File0166"},
+                {"file": "File0167"},
+                {"file": "File0168"},
+                {"file": "File0169"},
+                {"file": "File0170"},
+                {"file": "File0171"},
+                {"file": "File0172"},
+                {"file": "File0173"},
+                {"file": "File0174"},
+                {"file": "File0175"},
+                {"file": "File0176"},
+                {"file": "File0177"},
+                {"file": "File0178"},
+                {
+					"file": "File0179",
+					"form": "Base"
+				},
+                {
+					"file": "File0180",
+					"form": "Base"
+				},
+                {
+					"file": "File0181",
+					"form": "Base"
+				},
+                {
+					"file": "File0182",
+					"form": "Base"
+				},
+                {
+					"file": "File0183",
+					"form": "Base"
+				},
+                {
+					"file": "File0184",
+					"form": "Base"
+				},
+                {
+					"file": "File0185",
+					"form": "River"
+				},
+                {
+					"file": "File0186",
+					"form": "River"
+				},
+                {
+					"file": "File0187",
+					"form": "River"
+				}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0048"},
+                {"file": "File0049"},
+                {"file": "File0050"},
+                {"file": "File0051"},
+                {"file": "File0052"},
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"},
+                {"file": "File0057"},
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {"file": "File0060"},
+                {"file": "File0061"},
+                {"file": "File0062"},
+                {"file": "File0063"},
+                {"file": "File0064"},
+                {"file": "File0082"},
+                {"file": "File0083"},
+                {"file": "File0084"},
+                {"file": "File0085"},
+                {"file": "File0086"},
+                {"file": "File0087"},
+                {"file": "File0088"},
+                {"file": "File0089"},
+                {"file": "File0090"},
+				{"file": "File0212"},
+				{"file": "File0213"},
+				{"file": "File0214"},
+				{"file": "File0215"},
+				{"file": "File0216"},
+				{"file": "File0217"},
+				{"file": "File0218"},
+				{
+					"file": "File0261",
+					"ignore": [ "es_MX" ]
+				}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+				{"file": "File0079"},
+				{"file": "File0080"},
+				{"file": "File0081"}
+			]
+        },
+        {
+            "id": "RESPAWN",
+            "voices": [
+				{"file": "File0209"},
+				{"file": "File0210"},
+				{"file": "File0211"}
+			]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {
+                    "file": "File0224",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0225",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0226",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0227",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0228",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0229",
+                    "interact": "Response"
+                },
+                {
+                    "file": "File0230",
+                    "interact": "Response"
+                },
+                {
+                    "file": "File0231",
+                    "interact": "Response"
+                },
+                {
+                    "file": "File0232",
+                    "interact": "Response"
+                }
+			]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+				{"file": "File0115"},
+                {
+                    "file": "File0116",
+                    "form": "Response"
+                },
+                {
+                    "file": "File0117",
+                    "form": "Response"
+                },
+                {
+                    "file": "File0118",
+                    "form": "Response"
+                },
+                {
+                    "file": "File0119",
+                    "form": "Response"
+                },
+                {
+                    "file": "File0120",
+                    "form": "Response"
+                },
+                {
+                    "file": "File0121",
+                    "form": "Response"
+                }
+			]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0141"},
+                {"file": "File0142"},
+                {"file": "File0143"}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {"file": "File0122"},
+                {"file": "File0123"},
+                {"file": "File0124"},
+                {"file": "File0125"},
+                {"file": "File0126"},
+                {"file": "File0127"},
+                {"file": "File0128"},
+                {"file": "File0129"},
+                {
+                    "file": "File0130",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0131",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0132",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0133",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0134",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0135",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0136",
+                    "interact": "Ward"
+                },
+                {
+                    "file": "File0255",
+                    "interact": "Turret"
+                },
+                {
+                    "file": "File0256",
+                    "interact": "Turret"
+                },
+                {
+                    "file": "File0257",
+                    "interact": "Turret",
+					"ignore": [ "es_MX" ]
+                },
+                {
+                    "file": "File0258",
+                    "interact": "Turret"
+                },
+                {
+                    "file": "File0259",
+                    "interact": "Turret"
+                },
+                {
+                    "file": "File0260",
+                    "interact": "Turret"
+                },
+                {
+                    "file": "File0188",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0189",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0190",
+                    "form": "Pentakill",
+					"ignore": [ "en_GB" ]
+                },
+                {
+                    "file": "File0191",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0192",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0193",
+                    "form": "Pentakill"
+                }
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0203",
+					"skill": "Recall",
+                    "form": "Cancel"
+                },
+                {
+                    "file": "File0204",
+					"skill": "Recall",
+                    "form": "Cancel"
+                },
+                {
+                    "file": "File0205",
+					"skill": "Recall"
+                },
+                {
+                    "file": "File0206",
+					"skill": "Recall"
+                },
+                {
+                    "file": "File0207",
+					"skill": "Recall"
+                },
+                {
+                    "file": "File0208",
+					"skill": "Recall"
+                },
+                {
+                    "file": "File0233",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0234",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0235",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0236",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0237",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0238",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0239",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0240",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0241",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0242",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0243",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0244",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0245",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0246",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0247",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0248",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0249",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0250",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0251",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0252",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0253",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "File0254",
+					"skill": "Teleport"
+                },
+                {
+                    "file": "ornn_R",
+					"skill": "R",
+					"shared": "en_GB"
+                }
+            ]
+        },
+        {
+            "id": "WARD",
+            "voices": [
+                {"file": "File0262"},
+                {"file": "File0263"},
+                {"file": "File0264"},
+                {"file": "File0265"},
+                {"file": "File0266"}
+            ]
+        },
+        {
+            "id": "PING",
+            "voices": [
+                {
+                    "file": "File0194",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0195",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0196",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0197",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0198",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0199",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0200",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0201",
+                    "form": "Attack"
+                },
+                {
+                    "file": "File0202",
+                    "form": "Attack"
+                }
+            ]
+        },
+        {
+            "id": "SPECIAL",
+            "voices": [
+                {"file": "File0219"},
+                {"file": "File0220"},
+                {"file": "File0221"},
+                {"file": "File0222"},
+                {"file": "File0223"},
+                {
+                    "file": "File0073",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0074",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0075",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0076",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0077",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0078",
+                    "skill": "HP Potion"
+                },
+                {
+                    "file": "File0108",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0109",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0110",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0111",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0112",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0113",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0114",
+                    "form": "Forging Item"
+                },
+                {
+                    "file": "File0091",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0092",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0093",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0094",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0095",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0096",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0097",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0098",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0099",
+                    "form": "Forge Item"
+                },
+                {
+                    "file": "File0065",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0066",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0067",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0068",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0069",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0070",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0071",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0072",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0073",
+                    "form": "Destroy Champion's Terrain"
+                },
+                {
+                    "file": "File0137",
+                    "form": "Last player alive on team"
+                },
+                {
+                    "file": "File0138",
+                    "form": "Last player alive on team"
+                },
+                {
+                    "file": "File0139",
+                    "form": "Last player alive on team"
+                },
+                {
+                    "file": "File0140",
+                    "form": "Last player alive on team"
+                }
+            ]
+        }
+    ]
+}

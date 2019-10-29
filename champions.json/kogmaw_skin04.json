@@ -1,0 +1,15 @@
+{
+    "languages": [
+        "en_GB",
+        "es_MX"
+    ],
+    "categories": [{
+        "id": "JOKE",
+        "voices": [
+            {"file": "File0001"},
+            {"file": "File0002"},
+            {"file": "File0003"},
+            {"file": "File0004"}
+        ]
+    }]
+}

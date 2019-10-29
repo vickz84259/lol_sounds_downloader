@@ -1,0 +1,985 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "ENTERSTORE",
+            "voices": [
+                {
+					"file": "File0040",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0041",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0045",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0046",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0047",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0048",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0049",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0050",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0051",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0052",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0053",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0054",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0055",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0056",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0155",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0156",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0157",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0158",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0159",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0160",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0161",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0162",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0163",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0164",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0165",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0166",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0167",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0168",
+					"form": "Lyte"
+				}
+            ]
+        },
+        {
+            "id": "BROWSESTORE",
+            "voices": [
+                {
+					"file": "File0021",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0022",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0023",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0136",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0137",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0138",
+					"form": "Lyte"
+				}
+            ]
+        },
+        {
+            "id": "LEAVESTORE",
+            "voices": [
+                {
+					"file": "File0024",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0025",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0026",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0027",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0028",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0029",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0030",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0031",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0032",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0033",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0034",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0035",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0036",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0037",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0139",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0140",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0141",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0142",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0143",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0144",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0145",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0146",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0147",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0148",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0149",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0150",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0151",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0152",
+					"form": "Lyte"
+				}
+            ]
+        },
+        {
+            "id": "IDLE",
+            "voices": [
+                {
+					"file": "File0002",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0003",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0004",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0005",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0006",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0007",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0008",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0009",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0010",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0011",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0012",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0013",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0014",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0015",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0016",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0017",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0018",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0019",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0020",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0110",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0111",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0112",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0113",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0114",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0115",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0116",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0117",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0118",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0119",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0120",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0121",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0122",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0123",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0124",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0125",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0126",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0127",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0128",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0129",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0130",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0131",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0132",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0133",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0134",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0135",
+					"form": "Lyte"
+				}
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {
+					"file": "File0094",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0095",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0096",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0097",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0098",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0099",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0100",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0101",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0102",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0103",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0104",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0105",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0106",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0107",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0108",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0109",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0200",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0201",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0202",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0203",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0204",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0205",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0206",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0207",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0208",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0209",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0210",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0211",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0212",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0213",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0214",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0215",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0042",
+					"item": "Frost Queen's Claim",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0043",
+					"item": "Frozen Mallet",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0044",
+					"item": "Seeker's Armguard",
+					"form": "Greyor"
+				}
+            ]
+        },
+        {
+            "id": "WELCOME",
+            "voices": [
+                {
+					"file": "File0057",
+					"interact": "Anivia",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0058",
+					"interact": "Anivia",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0059",
+					"interact": "Anivia",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0060",
+					"interact": "Ashe",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0061",
+					"interact": "Ashe",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0062",
+					"interact": "Ashe",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0063",
+					"interact": "Brand",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0064",
+					"interact": "Brolaf",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0065",
+					"interact": "Gragas",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0066",
+					"interact": "Gragas",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0067",
+					"interact": "Gragas",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0068",
+					"interact": "Lissandra",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0069",
+					"interact": "Lissandra",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0070",
+					"interact": "Lissandra",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0071",
+					"interact": "Nami",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0072",
+					"interact": "Nunu",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0073",
+					"interact": "Nunu",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0074",
+					"interact": "Nunu",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0075",
+					"interact": "Olaf",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0076",
+					"interact": "Olaf",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0077",
+					"interact": "Olaf",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0078",
+					"interact": "Sejuani",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0079",
+					"interact": "Sejuani",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0080",
+					"interact": "Sejuani",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0081",
+					"interact": "Trundle",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0082",
+					"interact": "Trundle",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0083",
+					"interact": "Trundle",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0084",
+					"interact": "Tryndamere",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0085",
+					"interact": "Tryndamere",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0086",
+					"interact": "Tryndamere",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0087",
+					"interact": "Udyr",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0088",
+					"interact": "Udyr",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0089",
+					"interact": "Udyr",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0090",
+					"interact": "Volibear",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0091",
+					"interact": "Volibear",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0092",
+					"interact": "Volibear",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0093",
+					"interact": "Yordle",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0169",
+					"interact": "Ashe",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0170",
+					"interact": "Ashe",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0171",
+					"interact": "Ashe",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0172",
+					"interact": "Blitzcrank",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0173",
+					"interact": "Blitzcrank",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0174",
+					"interact": "Caitlyn",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0175",
+					"interact": "Caitlyn",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0176",
+					"interact": "Caitlyn",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0177",
+					"interact": "Ezreal",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0178",
+					"interact": "Ezreal",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0179",
+					"interact": "Ezreal",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0180",
+					"interact": "Ezreal",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0181",
+					"interact": "Heimerdinger",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0182",
+					"interact": "Heimerdinger",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0183",
+					"interact": "Heimerdinger",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0184",
+					"interact": "Jayce",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0185",
+					"interact": "Jayce",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0186",
+					"interact": "Lissandra",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0187",
+					"interact": "Lissandra",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0188",
+					"interact": "Lissandra",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0189",
+					"interact": "Orianna",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0190",
+					"interact": "Orianna",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0191",
+					"interact": "Sejuani",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0192",
+					"interact": "Sejuani",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0193",
+					"interact": "Sejuani",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0194",
+					"interact": "Vi",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0195",
+					"interact": "Vi",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0196",
+					"interact": "Vi",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0197",
+					"interact": "Zilean",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0198",
+					"interact": "Zilean",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0199",
+					"interact": "Zilean",
+					"form": "Lyte"
+				}
+            ]
+        },
+        {
+            "id": "SPECIAL",
+            "voices": [
+                {
+					"file": "File0038",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0039",
+					"form": "Greyor"
+				},
+                {
+					"file": "File0153",
+					"form": "Lyte"
+				},
+                {
+					"file": "File0154",
+					"form": "Lyte"
+				}
+            ]
+        }
+    ]
+}

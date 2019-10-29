@@ -1,0 +1,2755 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0373"},
+                {"file": "File0374"},
+                {"file": "File0375"},
+                {"file": "File0376"},
+                {"file": "File0377"}
+            ]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {
+					"file": "File0038",
+					"form": "Air"
+				},
+                {
+					"file": "File0039",
+					"form": "Air"
+				},
+                {
+					"file": "File0040",
+					"form": "Air"
+				},
+                {
+					"file": "File0041",
+					"form": "Air"
+				},
+                {
+					"file": "File0042",
+					"form": "Air"
+				},
+                {
+					"file": "File0043",
+					"form": "Air"
+				},
+                {
+					"file": "File0044",
+					"form": "Air"
+				},
+                {
+					"file": "File0045",
+					"form": "Air"
+				},
+                {
+					"file": "File0046",
+					"form": "Air"
+				},
+                {
+					"file": "File0047",
+					"form": "Air"
+				},
+                {
+					"file": "File0048",
+					"form": "Air"
+				},
+                {
+					"file": "File0049",
+					"form": "Air"
+				},
+                {
+					"file": "File0050",
+					"form": "Air"
+				},
+                {
+					"file": "File0051",
+					"form": "Air"
+				},
+                {
+					"file": "File0092",
+					"form": "Dark"
+				},
+                {
+					"file": "File0093",
+					"form": "Dark"
+				},
+                {
+					"file": "File0094",
+					"form": "Dark"
+				},
+                {
+					"file": "File0095",
+					"form": "Dark"
+				},
+                {
+					"file": "File0096",
+					"form": "Dark"
+				},
+                {
+					"file": "File0097",
+					"form": "Dark"
+				},
+                {
+					"file": "File0098",
+					"form": "Dark"
+				},
+                {
+					"file": "File0099",
+					"form": "Dark"
+				},
+                {
+					"file": "File0100",
+					"form": "Dark"
+				},
+                {
+					"file": "File0101",
+					"form": "Dark"
+				},
+                {
+					"file": "File0102",
+					"form": "Dark"
+				},
+                {
+					"file": "File0103",
+					"form": "Dark"
+				},
+                {
+					"file": "File0104",
+					"form": "Dark"
+				},
+                {
+					"file": "File0105",
+					"form": "Dark"
+				},
+                {
+					"file": "File0106",
+					"form": "Dark"
+				},
+                {
+					"file": "File0193",
+					"form": "Fire"
+				},
+                {
+					"file": "File0194",
+					"form": "Fire"
+				},
+                {
+					"file": "File0195",
+					"form": "Fire"
+				},
+                {
+					"file": "File0196",
+					"form": "Fire"
+				},
+                {
+					"file": "File0197",
+					"form": "Fire"
+				},
+                {
+					"file": "File0198",
+					"form": "Fire"
+				},
+                {
+					"file": "File0199",
+					"form": "Fire"
+				},
+                {
+					"file": "File0200",
+					"form": "Fire"
+				},
+                {
+					"file": "File0201",
+					"form": "Fire"
+				},
+                {
+					"file": "File0202",
+					"form": "Fire"
+				},
+                {
+					"file": "File0203",
+					"form": "Fire"
+				},
+                {
+					"file": "File0204",
+					"form": "Fire"
+				},
+                {
+					"file": "File0205",
+					"form": "Fire"
+				},
+                {
+					"file": "File0206",
+					"form": "Fire"
+				},
+                {
+					"file": "File0207",
+					"form": "Fire"
+				},
+                {
+					"file": "File0264",
+					"form": "Ice"
+				},
+                {
+					"file": "File0265",
+					"form": "Ice"
+				},
+                {
+					"file": "File0266",
+					"form": "Ice"
+				},
+                {
+					"file": "File0267",
+					"form": "Ice"
+				},
+                {
+					"file": "File0268",
+					"form": "Ice"
+				},
+                {
+					"file": "File0269",
+					"form": "Ice"
+				},
+                {
+					"file": "File0270",
+					"form": "Ice"
+				},
+                {
+					"file": "File0271",
+					"form": "Ice"
+				},
+                {
+					"file": "File0272",
+					"form": "Ice"
+				},
+                {
+					"file": "File0273",
+					"form": "Ice"
+				},
+                {
+					"file": "File0274",
+					"form": "Ice"
+				},
+                {
+					"file": "File0275",
+					"form": "Ice"
+				},
+                {
+					"file": "File0276",
+					"form": "Ice"
+				},
+                {
+					"file": "File0277",
+					"form": "Ice"
+				},
+                {
+					"file": "File0278",
+					"form": "Ice"
+				},
+                {
+					"file": "File0279",
+					"form": "Ice"
+				},
+                {
+					"file": "File0344",
+					"form": "Light"
+				},
+                {
+					"file": "File0345",
+					"form": "Light"
+				},
+                {
+					"file": "File0346",
+					"form": "Light"
+				},
+                {
+					"file": "File0347",
+					"form": "Light"
+				},
+                {
+					"file": "File0348",
+					"form": "Light"
+				},
+                {
+					"file": "File0349",
+					"form": "Light"
+				},
+                {
+					"file": "File0350",
+					"form": "Light"
+				},
+                {
+					"file": "File0351",
+					"form": "Light"
+				},
+                {
+					"file": "File0352",
+					"form": "Light"
+				},
+                {
+					"file": "File0353",
+					"form": "Light"
+				},
+                {
+					"file": "File0354",
+					"form": "Light"
+				},
+                {
+					"file": "File0355",
+					"form": "Light"
+				},
+                {
+					"file": "File0356",
+					"form": "Light"
+				},
+                {
+					"file": "File0357",
+					"form": "Light"
+				},
+                {
+					"file": "File0358",
+					"form": "Light"
+				},
+                {
+					"file": "File0359",
+					"form": "Light"
+				},
+                {
+					"file": "File0360",
+					"form": "Light"
+				},
+                {
+					"file": "File0361",
+					"form": "Light"
+				},
+                {
+					"file": "File0362",
+					"form": "Light"
+				},
+                {
+					"file": "File0363",
+					"form": "Light"
+				},
+                {
+					"file": "File0439",
+					"form": "Magma"
+				},
+                {
+					"file": "File0440",
+					"form": "Magma"
+				},
+                {
+					"file": "File0441",
+					"form": "Magma"
+				},
+                {
+					"file": "File0442",
+					"form": "Magma"
+				},
+                {
+					"file": "File0443",
+					"form": "Magma"
+				},
+                {
+					"file": "File0444",
+					"form": "Magma"
+				},
+                {
+					"file": "File0445",
+					"form": "Magma"
+				},
+                {
+					"file": "File0446",
+					"form": "Magma"
+				},
+                {
+					"file": "File0447",
+					"form": "Magma"
+				},
+                {
+					"file": "File0448",
+					"form": "Magma"
+				},
+                {
+					"file": "File0449",
+					"form": "Magma"
+				},
+                {
+					"file": "File0450",
+					"form": "Magma"
+				},
+                {
+					"file": "File0451",
+					"form": "Magma"
+				},
+                {
+					"file": "File0452",
+					"form": "Magma"
+				},
+                {
+					"file": "File0453",
+					"form": "Magma"
+				},
+                {
+					"file": "File0518",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0519",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0520",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0521",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0522",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0523",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0524",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0525",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0526",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0527",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0528",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0529",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0530",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0531",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0532",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0533",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0577",
+					"form": "Nature"
+				},
+                {
+					"file": "File0578",
+					"form": "Nature"
+				},
+                {
+					"file": "File0579",
+					"form": "Nature"
+				},
+                {
+					"file": "File0580",
+					"form": "Nature"
+				},
+                {
+					"file": "File0581",
+					"form": "Nature"
+				},
+                {
+					"file": "File0582",
+					"form": "Nature"
+				},
+                {
+					"file": "File0583",
+					"form": "Nature"
+				},
+                {
+					"file": "File0584",
+					"form": "Nature"
+				},
+                {
+					"file": "File0585",
+					"form": "Nature"
+				},
+                {
+					"file": "File0586",
+					"form": "Nature"
+				},
+                {
+					"file": "File0587",
+					"form": "Nature"
+				},
+                {
+					"file": "File0588",
+					"form": "Nature"
+				},
+                {
+					"file": "File0589",
+					"form": "Nature"
+				},
+                {
+					"file": "File0590",
+					"form": "Nature"
+				},
+                {
+					"file": "File0591",
+					"form": "Nature"
+				},
+                {
+					"file": "File0634",
+					"form": "Storm"
+				},
+                {
+					"file": "File0635",
+					"form": "Storm"
+				},
+                {
+					"file": "File0636",
+					"form": "Storm"
+				},
+                {
+					"file": "File0637",
+					"form": "Storm"
+				},
+                {
+					"file": "File0638",
+					"form": "Storm"
+				},
+                {
+					"file": "File0639",
+					"form": "Storm"
+				},
+                {
+					"file": "File0640",
+					"form": "Storm"
+				},
+                {
+					"file": "File0641",
+					"form": "Storm"
+				},
+                {
+					"file": "File0642",
+					"form": "Storm"
+				},
+                {
+					"file": "File0643",
+					"form": "Storm"
+				},
+                {
+					"file": "File0644",
+					"form": "Storm"
+				},
+                {
+					"file": "File0645",
+					"form": "Storm"
+				},
+                {
+					"file": "File0646",
+					"form": "Storm"
+				},
+                {
+					"file": "File0647",
+					"form": "Storm"
+				},
+                {
+					"file": "File0648",
+					"form": "Storm"
+				},
+                {
+					"file": "File0689",
+					"form": "Water"
+				},
+                {
+					"file": "File0690",
+					"form": "Water"
+				},
+                {
+					"file": "File0691",
+					"form": "Water"
+				},
+                {
+					"file": "File0692",
+					"form": "Water"
+				},
+                {
+					"file": "File0693",
+					"form": "Water"
+				},
+                {
+					"file": "File0694",
+					"form": "Water"
+				},
+                {
+					"file": "File0695",
+					"form": "Water"
+				},
+                {
+					"file": "File0696",
+					"form": "Water"
+				},
+                {
+					"file": "File0697",
+					"form": "Water"
+				},
+                {
+					"file": "File0698",
+					"form": "Water"
+				},
+                {
+					"file": "File0699",
+					"form": "Water"
+				},
+                {
+					"file": "File0700",
+					"form": "Water"
+				},
+                {
+					"file": "File0701",
+					"form": "Water"
+				},
+                {
+					"file": "File0702",
+					"form": "Water"
+				},
+                {
+					"file": "File0703",
+					"form": "Water"
+				},
+                {
+					"file": "File0704",
+					"form": "Water"
+				}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {
+					"file": "File0067",
+					"form": "Air"
+				},
+                {
+					"file": "File0068",
+					"form": "Air"
+				},
+                {
+					"file": "File0069",
+					"form": "Air"
+				},
+                {
+					"file": "File0070",
+					"form": "Air"
+				},
+                {
+					"file": "File0071",
+					"form": "Air"
+				},
+                {
+					"file": "File0072",
+					"form": "Air"
+				},
+                {
+					"file": "File0073",
+					"form": "Air"
+				},
+                {
+					"file": "File0074",
+					"form": "Air"
+				},
+                {
+					"file": "File0075",
+					"form": "Air"
+				},
+                {
+					"file": "File0076",
+					"form": "Air"
+				},
+                {
+					"file": "File0077",
+					"form": "Air"
+				},
+                {
+					"file": "File0078",
+					"form": "Air"
+				},
+                {
+					"file": "File0079",
+					"form": "Air"
+				},
+                {
+					"file": "File0080",
+					"form": "Air"
+				},
+                {
+					"file": "File0155",
+					"form": "Dark"
+				},
+                {
+					"file": "File0156",
+					"form": "Dark"
+				},
+                {
+					"file": "File0157",
+					"form": "Dark"
+				},
+                {
+					"file": "File0158",
+					"form": "Dark"
+				},
+                {
+					"file": "File0159",
+					"form": "Dark"
+				},
+                {
+					"file": "File0160",
+					"form": "Dark"
+				},
+                {
+					"file": "File0161",
+					"form": "Dark"
+				},
+                {
+					"file": "File0162",
+					"form": "Dark"
+				},
+                {
+					"file": "File0163",
+					"form": "Dark"
+				},
+                {
+					"file": "File0164",
+					"form": "Dark"
+				},
+                {
+					"file": "File0165",
+					"form": "Dark"
+				},
+                {
+					"file": "File0166",
+					"form": "Dark"
+				},
+                {
+					"file": "File0167",
+					"form": "Dark"
+				},
+                {
+					"file": "File0168",
+					"form": "Dark"
+				},
+                {
+					"file": "File0169",
+					"form": "Dark"
+				},
+                {
+					"file": "File0170",
+					"form": "Dark"
+				},
+                {
+					"file": "File0232",
+					"form": "Fire"
+				},
+                {
+					"file": "File0233",
+					"form": "Fire"
+				},
+                {
+					"file": "File0234",
+					"form": "Fire"
+				},
+                {
+					"file": "File0235",
+					"form": "Fire"
+				},
+                {
+					"file": "File0236",
+					"form": "Fire"
+				},
+                {
+					"file": "File0237",
+					"form": "Fire"
+				},
+                {
+					"file": "File0238",
+					"form": "Fire"
+				},
+                {
+					"file": "File0239",
+					"form": "Fire"
+				},
+                {
+					"file": "File0240",
+					"form": "Fire"
+				},
+                {
+					"file": "File0241",
+					"form": "Fire"
+				},
+                {
+					"file": "File0242",
+					"form": "Fire"
+				},
+                {
+					"file": "File0243",
+					"form": "Fire"
+				},
+                {
+					"file": "File0244",
+					"form": "Fire"
+				},
+                {
+					"file": "File0245",
+					"form": "Fire"
+				},
+                {
+					"file": "File0246",
+					"form": "Fire"
+				},
+                {
+					"file": "File0320",
+					"form": "Ice"
+				},
+                {
+					"file": "File0321",
+					"form": "Ice"
+				},
+                {
+					"file": "File0322",
+					"form": "Ice"
+				},
+                {
+					"file": "File0323",
+					"form": "Ice"
+				},
+                {
+					"file": "File0324",
+					"form": "Ice"
+				},
+                {
+					"file": "File0325",
+					"form": "Ice"
+				},
+                {
+					"file": "File0326",
+					"form": "Ice"
+				},
+                {
+					"file": "File0327",
+					"form": "Ice"
+				},
+                {
+					"file": "File0328",
+					"form": "Ice"
+				},
+                {
+					"file": "File0329",
+					"form": "Ice"
+				},
+                {
+					"file": "File0330",
+					"form": "Ice"
+				},
+                {
+					"file": "File0331",
+					"form": "Ice"
+				},
+                {
+					"file": "File0332",
+					"form": "Ice"
+				},
+                {
+					"file": "File0333",
+					"form": "Ice"
+				},
+                {
+					"file": "File0334",
+					"form": "Ice"
+				},
+                {
+					"file": "File0392",
+					"form": "Light"
+				},
+                {
+					"file": "File0393",
+					"form": "Light"
+				},
+                {
+					"file": "File0394",
+					"form": "Light"
+				},
+                {
+					"file": "File0395",
+					"form": "Light"
+				},
+                {
+					"file": "File0396",
+					"form": "Light"
+				},
+                {
+					"file": "File0397",
+					"form": "Light"
+				},
+                {
+					"file": "File0398",
+					"form": "Light"
+				},
+                {
+					"file": "File0399",
+					"form": "Light"
+				},
+                {
+					"file": "File0400",
+					"form": "Light"
+				},
+                {
+					"file": "File0401",
+					"form": "Light"
+				},
+                {
+					"file": "File0402",
+					"form": "Light"
+				},
+                {
+					"file": "File0403",
+					"form": "Light"
+				},
+                {
+					"file": "File0404",
+					"form": "Light"
+				},
+                {
+					"file": "File0405",
+					"form": "Light"
+				},
+                {
+					"file": "File0406",
+					"form": "Light"
+				},
+                {
+					"file": "File0407",
+					"form": "Light"
+				},
+                {
+					"file": "File0408",
+					"form": "Light"
+				},
+                {
+					"file": "File0496",
+					"form": "Magma"
+				},
+                {
+					"file": "File0497",
+					"form": "Magma"
+				},
+                {
+					"file": "File0498",
+					"form": "Magma"
+				},
+                {
+					"file": "File0499",
+					"form": "Magma"
+				},
+                {
+					"file": "File0500",
+					"form": "Magma"
+				},
+                {
+					"file": "File0501",
+					"form": "Magma"
+				},
+                {
+					"file": "File0502",
+					"form": "Magma"
+				},
+                {
+					"file": "File0503",
+					"form": "Magma"
+				},
+                {
+					"file": "File0504",
+					"form": "Magma"
+				},
+                {
+					"file": "File0505",
+					"form": "Magma"
+				},
+                {
+					"file": "File0506",
+					"form": "Magma"
+				},
+                {
+					"file": "File0507",
+					"form": "Magma"
+				},
+                {
+					"file": "File0508",
+					"form": "Magma"
+				},
+                {
+					"file": "File0509",
+					"form": "Magma"
+				},
+                {
+					"file": "File0510",
+					"form": "Magma"
+				},
+                {
+					"file": "File0543",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0544",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0545",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0546",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0547",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0548",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0549",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0550",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0551",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0552",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0553",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0554",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0555",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0556",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0557",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0558",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0606",
+					"form": "Nature"
+				},
+                {
+					"file": "File0607",
+					"form": "Nature"
+				},
+                {
+					"file": "File0608",
+					"form": "Nature"
+				},
+                {
+					"file": "File0609",
+					"form": "Nature"
+				},
+                {
+					"file": "File0610",
+					"form": "Nature"
+				},
+                {
+					"file": "File0611",
+					"form": "Nature"
+				},
+                {
+					"file": "File0612",
+					"form": "Nature"
+				},
+                {
+					"file": "File0613",
+					"form": "Nature"
+				},
+                {
+					"file": "File0614",
+					"form": "Nature"
+				},
+                {
+					"file": "File0615",
+					"form": "Nature"
+				},
+                {
+					"file": "File0616",
+					"form": "Nature"
+				},
+                {
+					"file": "File0617",
+					"form": "Nature"
+				},
+                {
+					"file": "File0618",
+					"form": "Nature"
+				},
+                {
+					"file": "File0619",
+					"form": "Nature"
+				},
+                {
+					"file": "File0620",
+					"form": "Nature"
+				},
+                {
+					"file": "File0659",
+					"form": "Storm"
+				},
+                {
+					"file": "File0660",
+					"form": "Storm"
+				},
+                {
+					"file": "File0661",
+					"form": "Storm"
+				},
+                {
+					"file": "File0662",
+					"form": "Storm"
+				},
+                {
+					"file": "File0663",
+					"form": "Storm"
+				},
+                {
+					"file": "File0664",
+					"form": "Storm"
+				},
+                {
+					"file": "File0665",
+					"form": "Storm"
+				},
+                {
+					"file": "File0666",
+					"form": "Storm"
+				},
+                {
+					"file": "File0667",
+					"form": "Storm"
+				},
+                {
+					"file": "File0668",
+					"form": "Storm"
+				},
+                {
+					"file": "File0669",
+					"form": "Storm"
+				},
+                {
+					"file": "File0670",
+					"form": "Storm"
+				},
+                {
+					"file": "File0671",
+					"form": "Storm"
+				},
+                {
+					"file": "File0672",
+					"form": "Storm"
+				},
+                {
+					"file": "File0673",
+					"form": "Storm"
+				},
+                {
+					"file": "File0674",
+					"form": "Storm"
+				},
+                {
+					"file": "File0720",
+					"form": "Water"
+				},
+                {
+					"file": "File0720",
+					"form": "Water"
+				},
+                {
+					"file": "File0721",
+					"form": "Water"
+				},
+                {
+					"file": "File0722",
+					"form": "Water"
+				},
+                {
+					"file": "File0723",
+					"form": "Water"
+				},
+                {
+					"file": "File0724",
+					"form": "Water"
+				},
+                {
+					"file": "File0725",
+					"form": "Water"
+				},
+                {
+					"file": "File0726",
+					"form": "Water"
+				},
+                {
+					"file": "File0727",
+					"form": "Water"
+				},
+                {
+					"file": "File0728",
+					"form": "Water"
+				},
+                {
+					"file": "File0729",
+					"form": "Water"
+				},
+                {
+					"file": "File0730",
+					"form": "Water"
+				},
+                {
+					"file": "File0731",
+					"form": "Water"
+				},
+                {
+					"file": "File0732",
+					"form": "Water"
+				},
+                {
+					"file": "File0733",
+					"form": "Water"
+				},
+                {
+					"file": "File0734",
+					"form": "Water"
+				},
+                {
+					"file": "File0735",
+					"form": "Water"
+				}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {
+					"file": "File0052",
+					"form": "Air",
+					"ignore": [ "de_DE" ]
+				},
+                {
+					"file": "File0053",
+					"form": "Air",
+					"ignore": [ "de_DE" ]
+				}
+            ]
+        },
+        {
+            "id": "RESPAWN",
+            "voices": [
+                {
+					"file": "File0015",
+					"ignore": [ "de_DE" ]
+				},
+                {
+					"file": "File0016",
+					"ignore": [ "de_DE" ]
+				},
+                {
+					"file": "File0017",
+					"ignore": [ "de_DE" ]
+				}
+			]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0113"},
+                {"file": "File0114"},
+                {"file": "File0115"},
+                {"file": "File0116"},
+                {
+					"file": "File0117",
+					"ignore": [ "pt_BR" ]
+				},
+                {
+					"file": "File0118",
+					"ignore": [ "pt_BR" ]
+				},
+                {"file": "File0173"},
+                {"file": "File0174"},
+                {"file": "File0175"},
+                {"file": "File0176"},
+                {"file": "File0177"},
+                {"file": "File0178"},
+                {"file": "File0179"},
+                {"file": "File0180"},
+                {"file": "File0181"},
+                {"file": "File0182"},
+                {"file": "File0183"},
+                {"file": "File0184"},
+                {"file": "File0185"},
+                {"file": "File0186"},
+                {"file": "File0187"},
+                {"file": "File0188"},
+                {"file": "File0189"},
+                {"file": "File0364"},
+                {"file": "File0365"},
+                {"file": "File0366"},
+                {"file": "File0367"},
+                {"file": "File0368"},
+                {"file": "File0369"},
+                {"file": "File0370"},
+                {"file": "File0371"},
+                {"file": "File0372"},
+                {"file": "File0417"},
+                {"file": "File0418"},
+                {"file": "File0419"},
+                {"file": "File0421"},
+                {"file": "File0422"},
+                {"file": "File0423"},
+                {"file": "File0424"},
+                {"file": "File0426"},
+                {"file": "File0427"},
+                {"file": "File0428"},
+                {"file": "File0429"},
+                {"file": "File0430"},
+                {"file": "File0431"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {
+					"file": "File0021",
+					"form": "Reply"
+				},
+                {
+					"file": "File0022",
+					"form": "Reply"
+				},
+                {
+					"file": "File0023",
+					"form": "Reply"
+				},
+                {
+					"file": "File0024",
+					"form": "Reply"
+				},
+                {
+					"file": "File0087",
+					"form": "Air"
+				},
+                {
+					"file": "File0257",
+					"interact": "Ally",
+					"form": "Fire"
+				},
+                {
+					"file": "File0258",
+					"form": "Reply as Fire"
+				},
+                {
+					"file": "File0340",
+					"form": "Reply as Ice",
+					"ignore": [ "de_DE", "ru_RU" ]
+				},
+                {
+					"file": "File0433",
+					"interact": "Dark Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0434",
+					"interact": "Dark Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0435",
+					"interact": "Dark Champion",
+					"form": "Light"
+				}
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"}
+			]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {
+					"file": "File0065",
+					"form": "Air"
+				},
+                {
+					"file": "File0066",
+					"form": "Air"
+				},
+                {
+					"file": "File0149",
+					"form": "Dark"
+				},
+                {
+					"file": "File0150",
+					"form": "Dark"
+				},
+                {
+					"file": "File0151",
+					"form": "Dark"
+				},
+                {
+					"file": "File0152",
+					"form": "Dark"
+				},
+                {
+					"file": "File0153",
+					"form": "Dark"
+				},
+                {
+					"file": "File0154",
+					"form": "Dark"
+				},
+                {
+					"file": "File0228",
+					"form": "Fire"
+				},
+                {
+					"file": "File0229",
+					"form": "Fire"
+				},
+                {
+					"file": "File0230",
+					"form": "Fire"
+				},
+                {
+					"file": "File0231",
+					"form": "Fire"
+				},
+                {
+					"file": "File0318",
+					"form": "Ice"
+				},
+                {
+					"file": "File0319",
+					"form": "Ice"
+				},
+                {
+					"file": "File0386",
+					"form": "Light"
+				},
+                {
+					"file": "File0387",
+					"form": "Light"
+				},
+                {
+					"file": "File0388",
+					"form": "Light"
+				},
+                {
+					"file": "File0389",
+					"form": "Light"
+				},
+                {
+					"file": "File0390",
+					"form": "Light"
+				},
+                {
+					"file": "File0391",
+					"form": "Light"
+				},
+                {
+					"file": "File0488",
+					"form": "Magma"
+				},
+                {
+					"file": "File0489",
+					"form": "Magma"
+				},
+                {
+					"file": "File0490",
+					"form": "Magma"
+				},
+                {
+					"file": "File0540",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0541",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0542",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0602",
+					"form": "Nature"
+				},
+                {
+					"file": "File0603",
+					"form": "Nature"
+				},
+                {
+					"file": "File0604",
+					"form": "Nature"
+				},
+                {
+					"file": "File0605",
+					"form": "Nature"
+				},
+                {
+					"file": "File0655",
+					"form": "Storm"
+				},
+                {
+					"file": "File0656",
+					"form": "Storm"
+				},
+                {
+					"file": "File0657",
+					"form": "Storm"
+				},
+                {
+					"file": "File0658",
+					"form": "Storm"
+				},
+                {
+					"file": "File0717",
+					"form": "Water"
+				},
+                {
+					"file": "File0718",
+					"form": "Water"
+				},
+                {
+					"file": "File0719",
+					"form": "Water"
+				}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {
+					"file": "File0012",
+					"interact": "Turret"
+				},
+                {
+					"file": "File0013",
+					"interact": "Turret"
+				},
+                {
+					"file": "File0014",
+					"interact": "Turret"
+				},
+                {
+					"file": "File0601",
+					"interact": "Turret",
+					"form": "Nature"
+				},
+                {
+					"file": "File0054",
+					"interact": "Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0055",
+					"interact": "Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0056",
+					"interact": "Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0057",
+					"interact": "Fire Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0058",
+					"interact": "Nature Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0059",
+					"interact": "Nature Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0060",
+					"interact": "Nature Champion",
+					"form": "Air"
+				},
+                {
+					"file": "File0061",
+					"name": "Killing Spree (Air)"
+				},
+                {
+					"file": "File0062",
+					"name": "Killing Spree (Air)"
+				},
+                {
+					"file": "File0063",
+					"name": "Killing Spree (Air)"
+				},
+                {
+					"file": "File0064",
+					"name": "Killing Spree (Air)"
+				},
+                {
+					"file": "File0142",
+					"interact": "Champion",
+					"form": "Dark"
+				},
+                {
+					"file": "File0143",
+					"interact": "Champion",
+					"form": "Dark"
+				},
+                {
+					"file": "File0144",
+					"interact": "Champion",
+					"form": "Dark"
+				},
+                {
+					"file": "File0145",
+					"interact": "Nocturne",
+					"form": "Dark"
+				},
+                {
+					"file": "File0146",
+					"name": "Killing Spree (Dark)"
+				},
+                {
+					"file": "File0147",
+					"name": "Killing Spree (Dark)"
+				},
+                {
+					"file": "File0148",
+					"name": "Killing Spree (Dark)"
+				},
+                {
+					"file": "File0213",
+					"interact": "Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0214",
+					"interact": "Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0215",
+					"interact": "Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0216",
+					"interact": "Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0217",
+					"interact": "Ice Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0218",
+					"interact": "Ice Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0219",
+					"interact": "Ice Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0220",
+					"interact": "Water Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0221",
+					"interact": "Water Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0222",
+					"interact": "Water Champion",
+					"form": "Fire"
+				},
+                {
+					"file": "File0223",
+					"name": "Killing Spree (Fire)"
+				},
+                {
+					"file": "File0224",
+					"name": "Killing Spree (Fire)"
+				},
+                {
+					"file": "File0225",
+					"name": "Killing Spree (Fire)"
+				},
+                {
+					"file": "File0226",
+					"name": "Killing Spree (Fire)"
+				},
+                {
+					"file": "File0227",
+					"name": "Killing Spree (Fire)"
+				},
+                {
+					"file": "File0309",
+					"interact": "Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0310",
+					"interact": "Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0311",
+					"interact": "Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0312",
+					"interact": "Fire Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0313",
+					"interact": "Fire Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0314",
+					"interact": "Fire Champion",
+					"form": "Ice"
+				},
+                {
+					"file": "File0315",
+					"name": "Killing Spree (Ice)"
+				},
+                {
+					"file": "File0316",
+					"name": "Killing Spree (Ice)"
+				},
+                {
+					"file": "File0317",
+					"name": "Killing Spree (Ice)"
+				},
+                {
+					"file": "File0377",
+					"interact": "Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0378",
+					"interact": "Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0379",
+					"interact": "Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0380",
+					"interact": "Dark Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0381",
+					"interact": "Dark Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0382",
+					"interact": "Dark Champion",
+					"form": "Light"
+				},
+                {
+					"file": "File0383",
+					"name": "Killing Spree (Light)"
+				},
+                {
+					"file": "File0384",
+					"name": "Killing Spree (Light)"
+				},
+                {
+					"file": "File0385",
+					"name": "Killing Spree (Light)"
+				},
+                {
+					"file": "File0477",
+					"interact": "Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0478",
+					"interact": "Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0479",
+					"interact": "Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0480",
+					"interact": "Ice Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0481",
+					"interact": "Ice Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0482",
+					"interact": "Water Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0483",
+					"interact": "Water Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0484",
+					"interact": "Water Champion",
+					"form": "Magma"
+				},
+                {
+					"file": "File0485",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0486",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0487",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0488",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0489",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0490",
+					"name": "Killing Spree (Magma)"
+				},
+                {
+					"file": "File0534",
+					"interact": "Champion",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0535",
+					"interact": "Champion",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0536",
+					"interact": "Champion",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0537",
+					"name": "Killing Spree (Mystic)"
+				},
+                {
+					"file": "File0538",
+					"name": "Killing Spree (Mystic)"
+				},
+                {
+					"file": "File0539",
+					"name": "Killing Spree (Mystic)"
+				},
+                {
+					"file": "File0592",
+					"interact": "Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0593",
+					"interact": "Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0594",
+					"interact": "Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0595",
+					"interact": "Plant Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0596",
+					"interact": "Water Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0597",
+					"interact": "Water Champion",
+					"form": "Nature"
+				},
+                {
+					"file": "File0598",
+					"name": "Killing Spree (Nature)"
+				},
+                {
+					"file": "File0599",
+					"name": "Killing Spree (Nature)"
+				},
+                {
+					"file": "File0600",
+					"name": "Killing Spree (Nature)"
+				},
+                {
+					"file": "File0649",
+					"interact": "Champion",
+					"form": "Storm"
+				},
+                {
+					"file": "File0650",
+					"interact": "Champion",
+					"form": "Storm"
+				},
+                {
+					"file": "File0651",
+					"interact": "Champion",
+					"form": "Storm"
+				},
+                {
+					"file": "File0684",
+					"interact": "Pirate Champion",
+					"form": "Storm"
+				},
+                {
+					"file": "File0685",
+					"interact": "Pirate Champion",
+					"form": "Storm"
+				},
+                {
+					"file": "File0652",
+					"name": "Killing Spree (Storm)"
+				},
+                {
+					"file": "File0653",
+					"name": "Killing Spree (Storm)"
+				},
+                {
+					"file": "File0654",
+					"name": "Killing Spree (Storm)"
+				},
+                {
+					"file": "File0705",
+					"interact": "Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0706",
+					"interact": "Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0707",
+					"interact": "Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0708",
+					"interact": "Fire Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0709",
+					"interact": "Fire Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0710",
+					"interact": "Fire Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0711",
+					"interact": "Ice Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0712",
+					"interact": "Ice Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0713",
+					"interact": "Nature Champion",
+					"form": "Water"
+				},
+                {
+					"file": "File0714",
+					"name": "Killing Spree (Water)"
+				},
+                {
+					"file": "File0715",
+					"name": "Killing Spree (Water)"
+				},
+                {
+					"file": "File0716",
+					"name": "Killing Spree (Water)"
+				}
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+					"file": "File0081",
+					"skill": "Recall",
+					"form": "Air"
+				},
+                {
+					"file": "File0082",
+					"skill": "Recall",
+					"form": "Air"
+				},
+                {
+					"file": "File0083",
+					"skill": "Recall",
+					"form": "Air"
+				},
+                {
+					"file": "File0084",
+					"skill": "Recall",
+					"form": "Air"
+				},
+                {
+					"file": "File0171",
+					"skill": "Recall",
+					"form": "Dark"
+				},
+                {
+					"file": "File0172",
+					"skill": "Recall",
+					"form": "Dark"
+				},
+                {
+					"file": "File0247",
+					"skill": "Recall",
+					"form": "Fire"
+				},
+                {
+					"file": "File0248",
+					"skill": "Recall",
+					"form": "Fire"
+				},
+                {
+					"file": "File0249",
+					"skill": "Recall",
+					"form": "Fire"
+				},
+                {
+					"file": "File0336",
+					"skill": "Recall",
+					"form": "Ice"
+				},
+                {
+					"file": "File0337",
+					"skill": "Recall",
+					"form": "Ice"
+				},
+                {
+					"file": "File0338",
+					"skill": "Recall",
+					"form": "Ice"
+				},
+                {
+					"file": "File0412",
+					"skill": "Recall",
+					"form": "Light"
+				},
+                {
+					"file": "File0413",
+					"skill": "Recall",
+					"form": "Light"
+				},
+                {
+					"file": "File0414",
+					"skill": "Recall",
+					"form": "Light"
+				},
+                {
+					"file": "File0511",
+					"skill": "Recall",
+					"form": "Magma"
+				},
+                {
+					"file": "File0512",
+					"skill": "Recall",
+					"form": "Magma"
+				},
+                {
+					"file": "File0513",
+					"skill": "Recall",
+					"form": "Magma"
+				},
+                {
+					"file": "File0566",
+					"skill": "Recall",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0567",
+					"skill": "Recall",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0568",
+					"skill": "Recall",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0628",
+					"skill": "Recall",
+					"form": "Nature"
+				},
+                {
+					"file": "File0629",
+					"skill": "Recall",
+					"form": "Nature"
+				},
+                {
+					"file": "File0630",
+					"skill": "Recall",
+					"form": "Nature"
+				},
+                {
+					"file": "File0675",
+					"skill": "Recall",
+					"form": "Storm"
+				},
+                {
+					"file": "File0676",
+					"skill": "Recall",
+					"form": "Storm"
+				},
+                {
+					"file": "File0677",
+					"skill": "Recall",
+					"form": "Storm"
+				},
+                {
+					"file": "File0736",
+					"skill": "Recall",
+					"form": "Water"
+				},
+                {
+					"file": "File0737",
+					"skill": "Recall",
+					"form": "Water"
+				},
+                {
+					"file": "File0738",
+					"skill": "Recall",
+					"form": "Water"
+				},
+                {
+					"file": "File0339",
+					"skill": "Q",
+					"form": "Ice"
+				},
+                {
+					"file": "File0415",
+					"skill": "Q",
+					"form": "Light"
+				},
+                {
+					"file": "File0416",
+					"skill": "Q",
+					"form": "Light"
+				},
+                {
+					"file": "File0569",
+					"skill": "Q",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0420",
+					"skill": "W",
+					"form": "Light"
+				},
+                {
+					"file": "File0470",
+					"skill": "W",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0085",
+					"skill": "E",
+					"form": "Air"
+				},
+                {
+					"file": "File0086",
+					"skill": "E",
+					"form": "Air"
+				},
+                {
+					"file": "File0250",
+					"skill": "E",
+					"form": "Fire",
+					"ignore": [ "it_IT" ]
+				},
+                {
+					"file": "File0251",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0252",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0253",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0254",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0255",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0256",
+					"skill": "E",
+					"form": "Fire"
+				},
+                {
+					"file": "File0425",
+					"skill": "E",
+					"form": "Light"
+				},
+                {
+					"file": "File0432",
+					"skill": "E",
+					"form": "Light"
+				},
+                {
+					"file": "File0514",
+					"skill": "E",
+					"form": "Magma"
+				},
+                {
+					"file": "File0571",
+					"skill": "E",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0739",
+					"skill": "E",
+					"form": "Water"
+				},
+                {
+					"file": "File0088",
+					"skill": "R",
+					"form": "Air"
+				},
+                {
+					"file": "File0089",
+					"skill": "R",
+					"form": "Air"
+				},
+                {
+					"file": "File0190",
+					"skill": "R",
+					"form": "Dark"
+				},
+                {
+					"file": "File0259",
+					"skill": "R",
+					"form": "Fire"
+				},
+                {
+					"file": "File0260",
+					"skill": "R",
+					"form": "Fire"
+				},
+                {
+					"file": "File0261",
+					"skill": "R",
+					"form": "Fire"
+				},
+                {
+					"file": "File0341",
+					"skill": "R",
+					"form": "Ice"
+				},
+                {
+					"file": "File0436",
+					"skill": "R",
+					"form": "Light"
+				},
+                {
+					"file": "File0515",
+					"skill": "R",
+					"form": "Magma"
+				},
+                {
+					"file": "File0572",
+					"skill": "R",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0573",
+					"skill": "R",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0574",
+					"skill": "R",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0631",
+					"skill": "R",
+					"form": "Nature"
+				},
+                {
+					"file": "File0686",
+					"skill": "R",
+					"form": "Storm"
+				},
+                {
+					"file": "File0740",
+					"skill": "R",
+					"form": "Water"
+				},
+                {
+					"file": "File0741",
+					"skill": "R",
+					"form": "Water"
+				}
+			]
+        },
+        {
+            "id": "WARD",
+            "voices": [
+                {"file": "File0025"},
+                {"file": "File0026"},
+                {"file": "File0027"},
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {"file": "File0031"},
+                {
+					"file": "File0090",
+					"form": "Air"
+				},
+                {
+					"file": "File0091",
+					"form": "Air"
+				},
+                {
+					"file": "File0191",
+					"form": "Dark"
+				},
+                {
+					"file": "File0192",
+					"form": "Dark"
+				},
+                {
+					"file": "File0262",
+					"form": "Fire"
+				},
+                {
+					"file": "File0263",
+					"form": "Fire"
+				},
+                {
+					"file": "File0342",
+					"form": "Ice"
+				},
+                {
+					"file": "File0343",
+					"form": "Ice"
+				},
+                {
+					"file": "File0437",
+					"form": "Light"
+				},
+                {
+					"file": "File0438",
+					"form": "Light"
+				},
+                {
+					"file": "File0516",
+					"form": "Magma"
+				},
+                {
+					"file": "File0517",
+					"form": "Magma"
+				},
+                {
+					"file": "File0575",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0576",
+					"form": "Mystic"
+				},
+                {
+					"file": "File0633",
+					"form": "Nature"
+				},
+                {
+					"file": "File0634",
+					"form": "Nature"
+				},
+                {
+					"file": "File0687",
+					"form": "Storm"
+				},
+                {
+					"file": "File0688",
+					"form": "Storm"
+				},
+                {
+					"file": "File0742",
+					"form": "Water"
+				}
+			]
+        },
+        {
+            "id": "SPECIAL",
+            "voices": [
+                {"file": "File0335"},
+                {
+					"file": "File0409",
+					"name": "Ready to transform"
+				},
+                {
+					"file": "File0410",
+					"name": "Ready to transform"
+				},
+                {
+					"file": "File0411",
+					"name": "Ready to transform"
+				},
+                {
+					"file": "File0032",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0033",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0034",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0035",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0036",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0037",
+					"name": "Air Transform"
+				},
+                {
+					"file": "File0107",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0108",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0109",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0110",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0111",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0112",
+					"name": "Dark Transform"
+				},
+                {
+					"file": "File0208",
+					"name": "Fire Transform"
+				},
+                {
+					"file": "File0209",
+					"name": "Fire Transform"
+				},
+                {
+					"file": "File0210",
+					"name": "Fire Transform"
+				},
+                {
+					"file": "File0211",
+					"name": "Fire Transform"
+				},
+                {
+					"file": "File0212",
+					"name": "Fire Transform"
+				},
+                {
+					"file": "File0303",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0304",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0305",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0306",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0307",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0308",
+					"name": "Ice Transform"
+				},
+                {
+					"file": "File0491",
+					"name": "Magma Transform"
+				},
+                {
+					"file": "File0492",
+					"name": "Magma Transform"
+				},
+                {
+					"file": "File0493",
+					"name": "Magma Transform",
+					"ignore": [ "de_DE" ]
+				},
+                {
+					"file": "File0494",
+					"name": "Magma Transform"
+				},
+                {
+					"file": "File0495",
+					"name": "Magma Transform"
+				},
+                {
+					"file": "File0559",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0560",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0561",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0562",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0563",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0564",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0565",
+					"name": "Mystic Transform"
+				},
+                {
+					"file": "File0621",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0622",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0623",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0624",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0625",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0626",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0627",
+					"name": "Nature Transform"
+				},
+                {
+					"file": "File0678",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0679",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0680",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0681",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0682",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0683",
+					"name": "Storm Transform"
+				},
+                {
+					"file": "File0743",
+					"name": "Water Transform"
+				},
+                {
+					"file": "File0744",
+					"name": "Water Transform"
+				},
+                {
+					"file": "File0745",
+					"name": "Water Transform"
+				},
+                {
+					"file": "File0746",
+					"name": "Water Transform"
+				},
+                {
+					"file": "File0747",
+					"name": "Water Transform"
+				}
+			]
+        }
+    ]
+}

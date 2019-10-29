@@ -1,0 +1,41 @@
+{
+    "languages": [ "tr_TR" ],
+    "categories": [
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [{"file": "File0020"}]
+        },
+        {
+            "id": "JOKE",
+            "voices": [{"file": "File0008"}]
+        }
+    ]
+}

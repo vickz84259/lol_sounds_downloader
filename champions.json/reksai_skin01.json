@@ -1,0 +1,192 @@
+{
+    "languages": ["en_GB"],
+    "categories": [
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0023"},
+                {"file": "File0024"},
+                {"file": "File0025"},
+                {"file": "File0026"},
+                {"file": "File0027"},
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {"file": "File0031"},
+                {"file": "File0032"},
+                {
+                    "file": "File0043",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0044",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0045",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0046",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0047",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0048",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0049",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0050",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0051",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0052",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0053",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0054",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0055",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0056",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0057",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0058",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0059",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0060",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0061",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0062",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0063",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0064",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0065",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0066",
+                    "form": "Burrowed"
+                },
+                {
+                    "file": "File0067",
+                    "form": "Burrowed"
+                }
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0012"},
+                {"file": "File0013"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"},
+                {"file": "File0039"},
+                {"file": "File0040"},
+                {"file": "File0041"},
+                {"file": "File0068"},
+                {"file": "File0069"},
+                {"file": "File0070"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [{"file": "File0042"}]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [{"file": "File0022"}]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0033",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0071",
+                    "skill": "R"
+                }
+            ]
+        },
+        {
+            "id": "DANCE",
+            "voices": [{"file": "File0011"}]
+        }
+    ]
+}

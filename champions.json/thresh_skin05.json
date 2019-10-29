@@ -1,0 +1,569 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU", "zh_CN",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0066"},
+                {"file": "File0067"},
+                {"file": "File0068"}
+            ]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {
+                    "file": "File0022",
+                    "interact": "Baron Nashor"
+                },
+                {
+                    "file": "File0023",
+                    "interact": "Baron Nashor"
+                },
+                {
+                    "file": "File0024",
+                    "interact": "Baron Nashor"
+                },
+                {
+                    "file": "File0025",
+                    "interact": "Dragon"
+                },
+                {
+                    "file": "File0026",
+                    "interact": "Dragon"
+                },
+                {
+                    "file": "File0027",
+                    "interact": "Dragon"
+                }
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0078"},
+                {"file": "File0079"},
+                {"file": "File0080"},
+                {"file": "File0081"},
+                {"file": "File0082"},
+                {"file": "File0083"},
+                {"file": "File0084"},
+                {"file": "File0085"},
+                {"file": "File0086"},
+                {"file": "File0087"},
+                {"file": "File0088"},
+                {"file": "File0089"},
+                {"file": "File0090"},
+                {"file": "File0091"},
+                {"file": "File0092"},
+                {"file": "File0093"},
+                {"file": "File0094"},
+                {"file": "File0095"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"},
+                {"file": "File0057"},
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {"file": "File0060"},
+                {"file": "File0061"}
+            ]
+        },
+        {
+            "id": "RESPAWN",
+            "voices": [
+                {"file": "File0100"},
+                {"file": "File0101"},
+                {"file": "File0102"},
+                {"file": "File0103"},
+                {"file": "File0104"},
+                {"file": "File0105"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0062"},
+                {"file": "File0063"},
+                {"file": "File0064"},
+                {"file": "File0065"},
+                {"file": "File0106"},
+                {"file": "File0107"},
+                {"file": "File0108"},
+                {"file": "File0109"},
+                {"file": "File0118"},
+                {"file": "File0119"},
+                {"file": "File0120"},
+                {"file": "File0126"},
+                {"file": "File0127"},
+                {"file": "File0128"},
+                {"file": "File0129"},
+                {"file": "File0134"},
+                {"file": "File0135"},
+                {"file": "File0136"},
+                {"file": "File0137"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0138"},
+                {"file": "File0139"},
+                {"file": "File0140"},
+                {
+					"file": "File0141",
+					"interact": "Astronaut Teemo",
+					"form": "Ally",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0147",
+					"interact": "Astronaut Teemo",
+					"form": "Enemy",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0142",
+					"interact": "Dark Star Varus",
+					"form": "Ally",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0143",
+					"interact": "Dark Star Varus",
+					"form": "Ally",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0144",
+					"interact": "Dark Star Varus",
+					"form": "Ally",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0145",
+					"interact": "Dark Star Varus",
+					"form": "Ally"
+				},
+                {
+					"file": "File0146",
+					"interact": "Dark Star Varus",
+					"form": "Ally"
+				},
+                {
+					"file": "File0152",
+					"interact": "Dark Star Varus",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0153",
+					"interact": "Dark Star Varus",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0148",
+					"interact": "Aurelion Sol"
+				},
+                {
+					"file": "File0149",
+					"interact": "Aurelion Sol"
+				},
+                {
+					"file": "File0150",
+					"interact": "Aurelion Sol"
+				},
+                {
+					"file": "File0151",
+					"interact": "Bard"
+				},
+                {
+					"file": "File0154",
+					"interact": "Diana"
+				},
+                {
+					"file": "File0155",
+					"interact": "Ekko"
+				},
+                {
+					"file": "File0156",
+					"interact": "Leona"
+				},
+                {
+					"file": "File0157",
+					"interact": "Lucian"
+				},
+                {
+					"file": "File0158",
+					"interact": "Lucian"
+				},
+                {
+					"file": "File0159",
+					"interact": "Lux"
+				},
+                {
+					"file": "File0160",
+					"interact": "Nocturne"
+				},
+                {
+					"file": "File0161",
+					"interact": "Taric"
+				},
+                {
+					"file": "File0162",
+					"interact": "Voidborn"
+				},
+                {
+					"file": "File0163",
+					"interact": "Voidborn"
+				},
+                {
+					"file": "File0164",
+					"interact": "Zilean"
+				},
+                {
+					"file": "File0165",
+					"interact": "Zilean"
+				}
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {
+					"file": "File0070",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				},
+                {
+					"file": "File0071",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				}
+            ]
+        },
+        {
+            "id": "IDLE",
+            "voices": [
+                {"file": "File0069"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {
+					"file": "File0077",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+				}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {
+					"file": "File0072",
+					"form": "Killing Spree"
+				},
+                {
+					"file": "File0073",
+					"form": "Killing Spree"
+				},
+                {
+					"file": "File0074",
+					"form": "Killing Spree"
+				},
+                {
+					"file": "File0075",
+					"form": "Killing Spree"
+				},
+                {
+					"file": "File0076",
+					"form": "Killing Spree"
+				}
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {"file": "File0028"},
+                {"file": "File0029"},
+                {"file": "File0030"},
+                {
+                    "file": "File0031",
+                    "item": "Giant's Belt"
+                },
+                {
+                    "file": "File0032",
+                    "item": "Giant's Belt"
+                },
+                {
+                    "file": "File0033",
+                    "item": "Giant's Belt"
+                },
+                {
+                    "file": "File0034",
+                    "item": "Eye of the Equinox"
+                },
+                {
+                    "file": "File0035",
+                    "item": "Eye of the Equinox"
+                },
+                {
+                    "file": "File0036",
+                    "item": "Eye of the Equinox"
+                },
+                {
+                    "file": "File0037",
+                    "item": "Kindlegem"
+                },
+                {
+                    "file": "File0038",
+                    "item": "Kindlegem"
+                },
+                {
+                    "file": "File0039",
+                    "item": "Kindlegem"
+                },
+                {
+                    "file": "File0040",
+                    "item": "Targon's Brace"
+                },
+                {
+                    "file": "File0041",
+                    "item": "Targon's Brace"
+                },
+                {
+                    "file": "File0042",
+                    "item": "Targon's Brace"
+                },
+                {
+                    "file": "File0043",
+                    "item": "Aegis of the Legion"
+                },
+                {
+                    "file": "File0044",
+                    "item": "Aegis of the Legion"
+                },
+                {
+                    "file": "File0045",
+                    "item": "Aegis of the Legion"
+                },
+                {
+                    "file": "File0046",
+                    "item": "Locket of the Iron Solari",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+                },
+                {
+                    "file": "File0047",
+                    "item": "Locket of the Iron Solari",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+                },
+                {
+                    "file": "File0048",
+                    "item": "Relic Shield"
+                },
+                {
+                    "file": "File0049",
+                    "item": "Relic Shield"
+                },
+                {
+                    "file": "File0050",
+                    "item": "Relic Shield"
+                }
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0097",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0098",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0099",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0110",
+                    "skill": "Q",
+					"ignore": [ "es_ES", "de_DE", "el_GR", "fr_FR", "ja_JP", "it_IT", "ko_KR", "pl_PL", "pt_BR", "ro_RO", "ru_RU", "zh_CN", "tr_TR" ]
+                },
+                {
+                    "file": "File0111",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0112",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0113",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0114",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0115",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0116",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0117",
+                    "skill": "Q"
+                },
+                {
+                    "file": "File0121",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0122",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0123",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0124",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0125",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0130",
+                    "skill": "E"
+                },
+                {
+                    "file": "File0131",
+                    "skill": "E"
+                },
+                {
+                    "file": "File0132",
+                    "skill": "E"
+                },
+                {
+                    "file": "File0133",
+                    "skill": "E"
+                },
+                {
+                    "file": "File0166",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0167",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0168",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0169",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0170",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0171",
+                    "skill": "R"
+                },
+                {
+                    "file": "File0172",
+                    "skill": "R"
+                }
+            ]
+        },
+        {
+            "id": "WARD",
+            "voices": [
+                {"file": "File0173"},
+                {"file": "File0174"},
+                {"file": "File0175"},
+                {"file": "File0176"}
+            ]
+        },
+        {
+            "id": "PROGRESS",
+            "voices": [
+                {
+                    "file": "File0096",
+                    "type": "stack",
+                    "skill": "Passive",
+                    "amount": "1"
+                },
+                {
+                    "file": "File0051",
+                    "type": "stack",
+                    "skill": "Passive",
+                    "amount": "40"
+                },
+                {
+                    "file": "File0052",
+                    "type": "stack",
+                    "skill": "Passive",
+                    "amount": "40"
+                },
+                {
+                    "file": "File0053",
+                    "type": "stack",
+                    "skill": "Passive",
+                    "amount": "40"
+                }
+            ]
+        }
+    ]
+}

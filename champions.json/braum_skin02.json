@@ -1,0 +1,62 @@
+{
+    "languages": ["es_MX"],
+    "categories": [
+        {
+            "id": "ATK",
+            "voices": [{"file": "File0005"}]
+        },
+        {
+            "id": "MOVE",
+            "voices": [{"file": "File0017"}]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0004"},
+                {"file": "File0004"},
+                {"file": "File0012"},
+                {
+                    "file": "File0007",
+                    "interact": "Heimerdinger"
+                },
+                {
+                    "file": "File0008",
+                    "interact": "Zilean"
+                }
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0014"},
+                {"file": "File0015"}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0018",
+                    "skill": "Recall"
+                },
+                {
+                    "file": "File0013",
+                    "skill": "W"
+                }
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [{
+                "file": "File0011",
+                "item": "Frozen Heart"
+            }]
+        }
+    ]
+}

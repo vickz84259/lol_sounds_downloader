@@ -1,0 +1,567 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "SELECT",
+			"voices": [
+				{
+					"file": "Maokai",
+					"name": "Select"
+				},
+				{
+					"file": "Maokai_Ban",
+					"name": "Ban"
+				}
+			]
+        },
+        {
+            "id": "BEGIN",
+            "voices": [
+                {"file": "File0049"},
+                {"file": "File0050"},
+                {"file": "File0051"},
+                {"file": "File0052"}
+            ]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"},
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"},
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"},
+                {"file": "File0014"},
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {"file": "File0022"},
+                {"file": "File0023"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0077"},
+                {"file": "File0078"},
+                {"file": "File0079"},
+                {"file": "File0080"},
+                {"file": "File0081"},
+                {"file": "File0082"},
+                {"file": "File0083"},
+                {"file": "File0084"},
+                {"file": "File0085"},
+                {"file": "File0086"},
+                {"file": "File0087"},
+                {"file": "File0088"},
+                {"file": "File0089"},
+                {"file": "File0090"},
+                {"file": "File0091"},
+                {"file": "File0092"},
+                {"file": "File0093"},
+                {"file": "File0094"},
+                {"file": "File0095"},
+                {"file": "File0096"},
+                {"file": "File0097"},
+                {"file": "File0098"},
+                {"file": "File0099"},
+                {"file": "File0100"},
+                {"file": "File0101"},
+                {"file": "File0102"},
+                {"file": "File0103"},
+                {"file": "File0104"},
+                {"file": "File0105"},
+                {"file": "File0106"},
+                {"file": "File0107"},
+                {"file": "File0108"},
+                {"file": "File0109"},
+                {"file": "File0110"},
+                {"file": "File0111"},
+                {"file": "File0112"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0032"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"},
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"}
+            ]
+        },
+        {
+            "id": "RESPAWN",
+            "voices": [
+                {"file": "File0115"},
+                {"file": "File0116"},
+                {"file": "File0117"},
+                {"file": "File0118"},
+                {"file": "File0119"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0039"},
+                {"file": "File0040"},
+                {"file": "File0041"},
+                {"file": "File0042"},
+                {"file": "File0043"},
+                {"file": "File0044"},
+                {"file": "File0045"},
+                {"file": "File0046"},
+                {"file": "File0047"},
+                {"file": "File0048"},
+                {"file": "File0076"},
+                {"file": "File0120"},
+                {"file": "File0121"},
+                {"file": "File0122"},
+                {"file": "File0125"},
+                {"file": "File0126"},
+                {"file": "File0127"},
+                {"file": "File0128"},
+                {"file": "File0129"},
+                {"file": "File0130"},
+                {"file": "File0131"},
+                {"file": "File0132"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0142"},
+                {"file": "File0143"},
+                {"file": "File0144"},
+                {
+					"file": "File0145",
+					"interact": "Shadow Isles Champion",
+					"form": "Ally"
+				},
+                {
+					"file": "File0146",
+					"interact": "Shadow Isles Champion",
+					"form": "Ally"
+				},
+                {
+					"file": "File0147",
+					"interact": "Shadow Isles Champion",
+					"form": "Ally"
+				},
+                {
+					"file": "File0180",
+					"interact": "Shadow Isles Champion",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0181",
+					"interact": "Shadow Isles Champion",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0182",
+					"interact": "Shadow Isles Champion",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0183",
+					"interact": "Shadow Isles Champion",
+					"form": "Enemy"
+				},
+                {
+					"file": "File0150",
+					"interact": "Champion using Axe"
+				},
+                {
+					"file": "File0188",
+					"interact": "Yordle"
+				},
+                {
+					"file": "File0148",
+					"interact": "Ahri"
+				},
+                {
+					"file": "File0149",
+					"interact": "Aurelion Sol"
+				},
+                {
+					"file": "File0151",
+					"interact": "Bard/Karthus/Sona"
+				},
+                {
+					"file": "File0152",
+					"interact": "Darius"
+				},
+                {
+					"file": "File0153",
+					"interact": "Elise"
+				},
+                {
+					"file": "File0154",
+					"interact": "Elise"
+				},
+                {
+					"file": "File0155",
+					"interact": "Elise"
+				},
+                {
+					"file": "File0156",
+					"interact": "Fiddlesticks"
+				},
+                {
+					"file": "File0157",
+					"interact": "Garen"
+				},
+                {
+					"file": "File0158",
+					"interact": "Garen"
+				},
+                {
+					"file": "File0159",
+					"interact": "Hecarim"
+				},
+                {
+					"file": "File0160",
+					"interact": "Hecarim"
+				},
+                {
+					"file": "File0161",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0162",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0163",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0164",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0165",
+					"interact": "Jayce"
+				},
+                {
+					"file": "File0166",
+					"interact": "Kalista"
+				},
+                {
+					"file": "File0167",
+					"interact": "Kalista"
+				},
+                {
+					"file": "File0168",
+					"interact": "Karthus"
+				},
+                {
+					"file": "File0169",
+					"interact": "Karthus"
+				},
+                {
+					"file": "File0171",
+					"interact": "Kindred/Lucian"
+				},
+                {
+					"file": "File0172",
+					"interact": "Kindred/Lucian"
+				},
+                {
+					"file": "File0175",
+					"interact": "Mage"
+				},
+                {
+					"file": "File0176",
+					"interact": "Mordekaiser"
+				},
+                {
+					"file": "File0177",
+					"interact": "Mordekaiser"
+				},
+                {
+					"file": "File0178",
+					"interact": "Nautilus"
+				},
+                {
+					"file": "File0179",
+					"interact": "Poppy"
+				},
+                {
+					"file": "File0185",
+					"interact": "Thresh"
+				},
+                {
+					"file": "File0186",
+					"interact": "Thresh"
+				},
+                {
+					"file": "File0187",
+					"interact": "Thresh"
+				},
+                {
+					"file": "File0189",
+					"interact": "Yorick"
+				},
+                {
+					"file": "File0190",
+					"interact": "Yorick"
+				},
+                {
+					"file": "File0191",
+					"interact": "Yorick"
+				},
+                {
+					"file": "File0192",
+					"interact": "Yorick"
+				},
+                {
+					"file": "File0193",
+					"interact": "Zyra"
+				},
+                {
+					"file": "File0194",
+					"interact": "Zyra"
+				},
+                {
+					"file": "File0195",
+					"interact": "Zyra"
+				},
+                {
+					"file": "File0196",
+					"interact": "Zyra"
+				},
+                {
+					"file": "File0197",
+					"form": "Response"
+				},
+                {
+					"file": "File0198",
+					"interact": "Ivern",
+					"form": "Response"
+				},
+                {
+					"file": "File0199",
+					"interact": "Yorick",
+					"form": "Response"
+				}
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0070"},
+                {"file": "File0071"},
+                {"file": "File0072"}
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {"file": "File0056"},
+                {"file": "File0057"},
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {"file": "File0060"},
+                {"file": "File0061"},
+                {"file": "File0062"},
+                {
+					"file": "File0063",
+					"form": "Jungle"
+				},
+                {
+					"file": "File0064",
+					"form": "Jungle"
+				},
+                {
+					"file": "File0065",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0066",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0067",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0068",
+					"interact": "Shadow Isles Champion"
+				},
+                {
+					"file": "File0069",
+					"interact": "Shadow Isles Champion"
+				}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+					"file": "File0113",
+					"skill": "Recall"
+				},
+                {
+					"file": "File0114",
+					"skill": "Recall"
+				},
+                {
+					"file": "File0123",
+					"skill": "Q"
+				},
+                {
+					"file": "File0124",
+					"skill": "Q"
+				},
+                {
+					"file": "File0133",
+					"skill": "E"
+				},
+                {
+					"file": "File0134",
+					"skill": "E"
+				},
+                {
+					"file": "File0135",
+					"skill": "E"
+				},
+                {
+					"file": "File0136",
+					"skill": "E"
+				},
+                {
+					"file": "File0137",
+					"skill": "E"
+				},
+                {
+					"file": "File0138",
+					"skill": "E",
+					"interact": "Red Brambleback"
+				},
+                {
+					"file": "File0139",
+					"skill": "E",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0140",
+					"skill": "E",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0141",
+					"skill": "E",
+					"interact": "Ivern"
+				},
+                {
+					"file": "File0200",
+					"skill": "R"
+				},
+                {
+					"file": "File0201",
+					"skill": "R"
+				},
+                {
+					"file": "File0202",
+					"skill": "R"
+				}
+            ]
+        },
+        {
+            "id": "PURCHASE",
+            "voices": [
+                {
+					"file": "File0024",
+					"item": "Doran's Shield"
+				},
+                {
+					"file": "File0025",
+					"item": "Iceborn Gauntlet"
+				},
+                {
+					"file": "File0026",
+					"item": "Iceborn Gauntlet"
+				},
+                {
+					"file": "File0027",
+					"item": "Iceborn Gauntlet"
+				},
+                {
+					"file": "File0028",
+					"item": "Sunfire Cape"
+				},
+                {
+					"file": "File0029",
+					"item": "Warmog's Armor"
+				},
+                {
+					"file": "File0030",
+					"item": "Warmog's Armor"
+				},
+                {
+					"file": "File0031",
+					"item": "Warmog's Armor"
+				}
+            ]
+        },
+        {
+            "id": "SPECIAL",
+            "voices": [
+                {
+					"file": "File0073",
+					"form": "Sapling"
+				},
+                {
+					"file": "File0074",
+					"form": "Sapling"
+				},
+                {
+					"file": "File0075",
+					"form": "Sapling"
+				}
+            ]
+        }
+    ]
+}

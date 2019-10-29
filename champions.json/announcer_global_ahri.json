@@ -1,0 +1,899 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "WELCOME",
+            "voices": [
+                {"file": "File0220"},
+                {"file": "File0221"},
+                {"file": "File0222"},
+                {"file": "File0227"},
+                {"file": "File0228"},
+                {"file": "File0229"},
+                {
+                    "file": "File0226",
+                    "form": "Summoner's Rift"
+                },
+                {
+                    "file": "File0230",
+                    "form": "Twisted Treeline"
+                },
+                {
+                    "file": "File0231",
+                    "form": "Twisted Treeline"
+                },
+                {
+                    "file": "File0223",
+                    "form": "Crystal Scar"
+                },
+                {
+                    "file": "File0224",
+                    "form": "Howling Abyss"
+                },
+                {
+                    "file": "File0225",
+                    "form": "Howling Abyss"
+                }
+            ]
+        },
+        {
+            "id": "KILL",
+            "voices": [
+                {
+                    "file": "File0001",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0002",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0003",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0004",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0005",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0006",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0007",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0008",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0009",
+                    "form": "Ace"
+                },
+                {
+                    "file": "File0124",
+                    "form": "First Blood"
+                },
+                {
+                    "file": "File0125",
+                    "form": "First Blood"
+                },
+                {
+                    "file": "File0126",
+                    "form": "First Blood"
+                },
+                {
+                    "file": "File0127",
+                    "form": "First Blood"
+                },
+                {
+                    "file": "File0023",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0024",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0025",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0026",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0027",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0028",
+                    "interact": "Ally"
+                },
+                {
+                    "file": "File0029",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0030",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0031",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0032",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0033",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0034",
+                    "interact": "Enemy"
+                },
+                {
+                    "file": "File0035",
+                    "interact": "Enemy"
+                },
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"},
+                {"file": "File0039"},
+                {"file": "File0040"},
+                {"file": "File0041"},
+                {"file": "File0042"},
+                {"file": "File0043"},
+                {"file": "File0044"},
+                {"file": "File0051"},
+                {"file": "File0052"},
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"},
+                {"file": "File0057"},
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {
+                    "file": "File0045",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0046",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0047",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0048",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0049",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0050",
+                    "form": "Executed"
+                },
+                {
+                    "file": "File0010",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0011",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0012",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0013",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0014",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0015",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0016",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0017",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0018",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0019",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0020",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0021",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0022",
+                    "form": "Double Kill"
+                },
+                {
+                    "file": "File0086",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0087",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0088",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0089",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0090",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0091",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0092",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0093",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0094",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0095",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0096",
+                    "form": "Triple Kill"
+                },
+                {
+                    "file": "File0076",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0077",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0078",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0079",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0080",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0081",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0082",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0083",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0084",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0085",
+                    "form": "Quadra Kill"
+                },
+                {
+                    "file": "File0060",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0061",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0062",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0063",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0064",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0065",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0066",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0067",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0068",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0069",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0070",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0071",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0072",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0073",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0074",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0075",
+                    "form": "Pentakill"
+                },
+                {
+                    "file": "File0133",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0134",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0135",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0136",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0137",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0138",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0139",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0140",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0141",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0142",
+                    "form": "Killing Spree"
+                },
+                {
+                    "file": "File0143",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0144",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0145",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0146",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0147",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0148",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0149",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0150",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0151",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0152",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0153",
+                    "form": "Rampage"
+                },
+                {
+                    "file": "File0154",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0155",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0156",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0157",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0158",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0159",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0160",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0161",
+                    "form": "Unstoppable"
+                },
+                {
+                    "file": "File0162",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0163",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0164",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0165",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0166",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0167",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0168",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0169",
+                    "form": "Dominating"
+                },
+                {
+                    "file": "File0170",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0171",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0172",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0173",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0174",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0175",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0176",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0177",
+                    "form": "Godlike"
+                },
+                {
+                    "file": "File0097",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0098",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0099",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0100",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0101",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0102",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0103",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0178",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0179",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0180",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0181",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0182",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0183",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0184",
+                    "form": "Legendary"
+                },
+                {
+                    "file": "File0128",
+                    "form": "Shutdown"
+                },
+                {
+                    "file": "File0129",
+                    "form": "Shutdown"
+                },
+                {
+                    "file": "File0130",
+                    "form": "Shutdown"
+                },
+                {
+                    "file": "File0131",
+                    "form": "Shutdown",
+					"ignore": [ "en_GB" ]
+                },
+                {
+                    "file": "File0132",
+                    "form": "Shutdown"
+                }
+            ]
+        },
+        {
+            "id": "STRUCTURE",
+            "voices": [
+                {
+                    "file": "File0104",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0105",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0106",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0107",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0108",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0109",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0110",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0111",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0112",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0113",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0114",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0115",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0116",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0117",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0118",
+                    "form": "Inhibitor"
+                },
+                {
+                    "file": "File0209",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0210",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0211",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0212",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0213",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0214",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0188",
+                    "form": "Nexus"
+                },
+                {
+                    "file": "File0189",
+                    "form": "Nexus"
+                },
+                {
+                    "file": "File0190",
+                    "form": "Nexus"
+                },
+                {
+                    "file": "File0191",
+                    "form": "Nexus"
+                },
+                {
+                    "file": "File0192",
+                    "form": "Nexus"
+                },
+                {
+                    "file": "File0195",
+                    "form": "Altars"
+                },
+                {
+                    "file": "File0196",
+                    "form": "Altars"
+                },
+                {
+                    "file": "File0197",
+                    "form": "Altars"
+                },
+                {
+                    "file": "File0198",
+                    "form": "Altars"
+                }
+            ]
+        },
+        {
+            "id": "CONNECTION",
+            "voices": [
+                {"file": "File0193"},
+                {"file": "File0194"}
+            ]
+        },
+        {
+            "id": "GAME",
+            "voices": [
+                {
+                    "file": "File0215",
+                    "form": "Victory"
+                },
+                {
+                    "file": "File0216",
+                    "form": "Victory"
+                },
+                {
+                    "file": "File0217",
+                    "form": "Victory"
+                },
+                {
+                    "file": "File0218",
+                    "form": "Victory"
+                },
+                {
+                    "file": "File0219",
+                    "form": "Victory"
+                },
+                {
+                    "file": "File0119",
+                    "form": "Defeat"
+                },
+                {
+                    "file": "File0120",
+                    "form": "Defeat"
+                },
+                {
+                    "file": "File0121",
+                    "form": "Defeat"
+                },
+                {
+                    "file": "File0122",
+                    "form": "Defeat"
+                },
+                {
+                    "file": "File0123",
+                    "form": "Defeat"
+                },
+                {
+                    "file": "File0199",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0200",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0201",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0202",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0203",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0204",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0205",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0206",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0207",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0208",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0185",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0186",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0187",
+                    "form": "Minions"
+                },
+                {
+                    "file": "File0188",
+                    "form": "Minions"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "zh_CN",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "SELECT",
+			"voices": [
+				{
+					"file": "Nasus",
+					"name": "Select"
+				},
+				{
+					"file": "File0052",
+					"name": "Ban"
+				}
+			]
+        },
+        {
+            "id": "ATK",
+            "voices": [
+                {"file": "File0016"},
+                {"file": "File0017"},
+                {"file": "File0018"},
+                {"file": "File0019"},
+                {"file": "File0020"},
+                {"file": "File0021"},
+                {"file": "File0022"},
+                {"file": "File0023"},
+                {"file": "File0024"},
+                {"file": "File0025"},
+                {"file": "File0026"},
+                {"file": "File0027"},
+                {"file": "File0028"}
+            ]
+        },
+        {
+            "id": "MOVE",
+            "voices": [
+                {"file": "File0049"},
+                {"file": "File0050"},
+                {"file": "File0051"},
+                {"file": "File0052"},
+                {"file": "File0053"},
+                {"file": "File0054"},
+                {"file": "File0055"},
+                {"file": "File0056"},
+                {"file": "File0057"},
+                {"file": "File0058"},
+                {"file": "File0059"},
+                {"file": "File0060"},
+                {"file": "File0061"},
+                {"file": "File0062"},
+                {"file": "File0063"},
+                {"file": "File0064"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0032"},
+                {"file": "File0033"},
+                {"file": "File0034"},
+                {"file": "File0035"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0036"},
+                {"file": "File0037"},
+                {"file": "File0038"},
+                {"file": "File0039"},
+                {"file": "File0065"},
+                {"file": "File0066"},
+                {"file": "File0067"},
+                {"file": "File0068"},
+                {"file": "File0073"},
+                {"file": "File0074"},
+                {"file": "File0075"},
+                {"file": "File0076"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0077"},
+                {"file": "File0078"},
+                {
+                    "file": "File0040",
+                    "interact": "Renekton"
+                },
+                {
+                    "file": "File0041",
+                    "interact": "Renekton"
+                }
+            ]
+        },
+        {
+            "id": "JOKE",
+            "voices": [
+                {"file": "File0042"},
+                {"file": "File0043"},
+                {"file": "File0044"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0045"},
+                {"file": "File0046"},
+                {"file": "File0047"},
+                {"file": "File0048"}
+            ]
+        },
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+                    "file": "File0069",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0070",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0071",
+                    "skill": "W"
+                },
+                {
+                    "file": "File0072",
+                    "skill": "W"
+                }
+            ]
+        }
+    ]
+}

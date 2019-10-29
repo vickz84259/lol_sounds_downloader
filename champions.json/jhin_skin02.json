@@ -1,0 +1,32 @@
+{
+    "languages": [
+        "en_GB"
+    ],
+    "categories": [
+        {
+            "id": "SKILL",
+            "voices": [
+                {
+					"file": "ultimate1",
+                    "skill": "R"
+                },
+                {
+					"file": "ultimate2",
+                    "skill": "R"
+                },
+                {
+					"file": "ultimate3",
+                    "skill": "R"
+                },
+                {
+					"file": "ultimate4",
+                    "skill": "R"
+                },
+                {
+					"file": "ultimate5",
+                    "skill": "R"
+                }
+			]
+        }
+    ]
+}

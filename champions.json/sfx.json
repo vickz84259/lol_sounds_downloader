@@ -1,0 +1,146 @@
+{
+  "languages": [ "en_GB" ],
+  "categories": [
+    {
+      "id": "PING",
+      "voices": [
+        {
+          "file": "ping_help",
+          "name": "Help"
+        },
+        {
+          "file": "ping_warning",
+          "name": "Warning"
+        },
+        {
+          "file": "ping_attack",
+          "name": "Attack"
+        },
+        {
+          "file": "ping_defend",
+          "name": "Defend"
+        },
+        {
+          "file": "ping_danger",
+          "name": "Danger"
+        },
+        {
+          "file": "ping_missing",
+          "name": "Enemy Missing"
+        },
+        {
+          "file": "ping_omw",
+          "name": "On my way"
+        },
+        {
+          "file": "ping_assist",
+          "name": "Assist"
+        }
+      ]
+    },
+    {
+      "id": "DIE",
+      "voices": [
+        {
+          "file": "monster_dragon_death",
+          "interact": "Dragon"
+        },
+        {
+          "file": "monster_baron_death",
+          "interact": "Baron Nashor"
+        }
+      ]
+    },
+    {
+      "id": "SKILL",
+      "voices": [
+        {
+          "file": "summoner_heal",
+          "name": "Heal"
+        },
+        {
+          "file": "summoner_ghost",
+          "name": "Ghost"
+        },
+        {
+          "file": "summoner_clarity",
+          "name": "Clarity"
+        },
+        {
+          "file": "summoner_barrier",
+          "name": "Barrier"
+        },
+        {
+          "file": "summoner_clairvoyance",
+          "name": "Clairvoyance"
+        },
+        {
+          "file": "summoner_flash",
+          "name": "Flash"
+        },
+        {
+          "file": "summoner_ignite",
+          "name": "Ignite"
+        },
+        {
+          "file": "summoner_teleport",
+          "name": "Teleport"
+        },
+        {
+          "file": "summoner_smite",
+          "name": "Smite"
+        },
+        {
+          "file": "summoner_exhaust",
+          "name": "Exhaust"
+        }
+      ]
+    },
+    {
+      "id": "CHAMPION",
+      "voices": [
+        {
+          "file": "champ_levelup",
+          "name": "Level Up"
+        },
+        {
+          "file": "champ_recall",
+          "name": "Recall"
+        },
+        {
+          "file": "champ_recall_baron",
+          "name": "Recall (Baron)"
+        },
+        {
+          "file": "champ_respawn",
+          "name": "Respawn"
+        }
+      ]
+    },
+    {
+      "id": "SPECIAL",
+      "voices": [
+        {
+          "file": "turret_mark",
+          "name": "Turret Mark"
+        },
+        {
+          "file": "mastery_emote_tier4",
+          "name": "Mastery Emote (Tier 4)"
+        },
+        {
+          "file": "mastery_emote_tier5",
+          "name": "Mastery Emote (Tier 5)"
+        },
+        {
+          "file": "mastery_emote_tier7",
+          "name": "Mastery Emote (Tier 7)"
+        },
+        {
+          "file": "urf",
+          "name": "U.R.F."
+        }
+      ]
+    }
+  ]
+}

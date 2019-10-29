@@ -1,0 +1,21 @@
+{
+    "languages": ["en_GB"],
+    "categories": [
+        {
+            "id": "TAUNT",
+            "voices": [
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"}
+            ]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"}
+            ]
+        }
+    ]
+}

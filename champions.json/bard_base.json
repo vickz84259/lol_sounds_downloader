@@ -1,0 +1,291 @@
+{
+  "languages": ["en_GB"],
+  "categories": [
+    {
+      "id": "SELECT",
+		"voices": [
+			{
+				"file": "Bard",
+				"name": "Select"
+			},
+			{
+				"file": "File0003",
+				"name": "Ban"
+			}
+		]
+    },
+    {
+      "id": "MOVE",
+      "voices": [
+        {
+          "file": "File0006",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0007",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0008",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0009",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0010",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0011",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0012",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0013",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0014",
+          "name": "0 Meeps"
+        },
+        {
+          "file": "File0015",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0016",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0017",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0018",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0019",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0020",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0021",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0022",
+          "name": "1 Meep"
+        },
+        {
+          "file": "File0023",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0024",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0025",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0026",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0027",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0028",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0029",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0030",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0031",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0032",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0033",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0034",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0035",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0036",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0037",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0038",
+          "name": "2 Meeps"
+        },
+        {
+          "file": "File0038",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0039",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0040",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0041",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0042",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0043",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0044",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0045",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0046",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0047",
+          "name": "3+ Meeps"
+        },
+        {
+          "file": "File0048",
+          "name": "3+ Meeps"
+        }
+      ]
+    },
+    {
+      "id": "DIE",
+      "voices": [{"file": "File0003"}]
+    },
+    {
+      "id": "EFFORT",
+      "voices": [
+        {"file": "File0015"},
+        {"file": "File0016"},
+        {"file": "File0017"},
+        {"file": "File0018"}
+      ]
+    },
+    {
+      "id": "SPECIAL",
+      "voices": [
+        {
+          "file": "File0053",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0054",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0055",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0056",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0057",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0058",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0059",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0060",
+          "name": "Meep spawn"
+        },
+        {
+          "file": "File0061",
+          "name": "Meep spawn"
+        }
+      ]
+    },
+    {
+      "id": "TAUNT",
+      "voices": [{"file": "File0052"}]
+    },
+    {
+      "id": "JOKE",
+      "voices": [
+        {"file": "File0004"}
+      ]
+    },
+    {
+      "id": "LAUGH",
+      "voices": [{"file": "File0005"}]
+    },
+    {
+      "id": "SKILL",
+      "voices": [
+        {
+          "file": "File0049",
+          "skill": "Recall"
+        },
+        {
+          "file": "File0050",
+          "skill": "W"
+        },
+        {
+          "file": "File0051",
+          "skill": "W"
+        }
+      ]
+    },
+    {
+      "id": "DANCE",
+      "voices": [
+        {"file": "File0002"},
+        {"file": "File0001"}
+      ]
+    }
+  ]
+}

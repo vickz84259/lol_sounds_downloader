@@ -1,0 +1,53 @@
+{
+    "languages": [
+        "en_GB",
+        "ko_KR",
+        "ja_JP",
+        "pt_BR",
+        "de_DE",
+        "es_MX",
+        "es_ES",
+        "tr_TR",
+        "fr_FR",
+        "it_IT",
+        "hu_HU",
+        "pl_PL",
+        "ru_RU",
+        "ro_RO",
+        "cs_CZ",
+        "el_GR"
+    ],
+    "categories": [
+        {
+            "id": "WELCOME",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"}
+            ]
+        },
+        {
+            "id": "STRUCTURE",
+            "voices": [
+                {
+                    "file": "File0005",
+                    "form": "Turret"
+                },
+                {
+                    "file": "File0006",
+                    "form": "Turret"
+                }
+            ]
+        },
+        {
+            "id": "GAME",
+            "voices": [
+                {
+                    "file": "File0007",
+                    "form": "Victory"
+                }
+            ]
+        }
+    ]
+}

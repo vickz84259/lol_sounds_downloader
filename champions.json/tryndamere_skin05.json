@@ -1,0 +1,49 @@
+{
+    "languages": [ "tr_TR" ],
+    "categories": [
+        {
+            "id": "ATK_MOVE",
+            "voices": [
+                {"file": "File0001"},
+                {"file": "File0002"},
+                {"file": "File0003"},
+                {"file": "File0004"},
+                {"file": "File0005"},
+                {"file": "File0006"}
+            ]
+        },
+        {
+            "id": "DIE",
+            "voices": [
+                {"file": "File0007"},
+                {"file": "File0008"},
+                {"file": "File0009"}
+            ]
+        },
+        {
+            "id": "EFFORT",
+            "voices": [
+                {"file": "File0010"},
+                {"file": "File0011"},
+                {"file": "File0012"},
+                {"file": "File0013"}
+            ]
+        },
+        {
+            "id": "TAUNT",
+            "voices": [{"file": "File0023"}]
+        },
+        {
+            "id": "JOKE",
+            "voices": [{"file": "File0014"}]
+        },
+        {
+            "id": "LAUGH",
+            "voices": [
+                {"file": "File0015"},
+                {"file": "File0016"},
+                {"file": "File0017"}
+            ]
+        }
+    ]
+}
