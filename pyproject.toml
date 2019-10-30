@@ -1,0 +1,9 @@
+[tool.poetry]
+name = 'lol_sound_downloader'
+version = '0.1.0'
+description = ''
+authors = ['Victor Otieno Omondi <victor@slick.co.ke>']
+
+[tool.poetry.dependencies]
+python = '^3.7'
+aiohttp = "^3.6"
