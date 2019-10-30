@@ -2,24 +2,38 @@ import asyncio
 import os
 import os.path
 import json
-import hashlib
+import random
+import string
 import time
-from concurrent.futures import ThreadPoolExecutor
 
 DIR_PATH = './champions.json/'
+ALPHANUMERIC = string.ascii_lowercase + string.digits
 
 
-def get_file_names():
-    return os.listdir(DIR_PATH)
+async def get_file_names(queue):
+    for file_name in os.listdir(DIR_PATH):
+        extension = os.path.splitext(file_name)[1]
+        if extension == '.json' and 'announcer' in file_name:
+            await queue.put(file_name)
+
+
+async def worker(files_queue):
+    loop = asyncio.get_running_loop()
+
+    while True:
+        try:
+            file_name = await files_queue.get()
+            await loop.run_in_executor(None, process_file, file_name)
+            files_queue.task_done()
+        except asyncio.CancelledError:
+            break
 
 
 def get_token():
-    time_bytes = bytearray(int(time.time()))
-    return hashlib.md5(time_bytes).hexdigest()
+    return ''.join(random.choice(ALPHANUMERIC) for i in range(32))
 
 
 def get_links(data, file_name):
-    print(f'processing {file_name}')
     base_url = 'http://163.172.95.179/VOL/download.php?'
     base_url = f'{base_url}installation_id={get_token()}&champion={file_name}'
 
@@ -45,22 +59,24 @@ def process_file(file_name):
 
 
 async def main():
-    loop = asyncio.get_running_loop()
+    start = time.time()
 
-    futures = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    files_queue = asyncio.Queue()
 
-        for file_name in get_file_names():
-            extension = os.path.splitext(file_name)[1]
-            if extension == '.json' and 'announcer' in file_name:
-                futures.append(
-                    loop.run_in_executor(executor, process_file, file_name))
+    producer = asyncio.create_task(get_file_names(files_queue))
+    consumers = [asyncio.create_task(worker(files_queue)) for _ in range(2)]
 
-    results = await asyncio.gather(*futures)
+    # Wait for producer to finish
+    await producer
 
-    with open('result', 'w') as file:
-        for lines in results:
-            file.writelines(lines)
+    # wait for remaining files to be processed
+    await files_queue.join()
+
+    # cancel workers
+    for consumer in consumers:
+        consumer.cancel()
+
+    print("Process took: {} seconds".format(time.time() - start))
 
 
 if __name__ == "__main__":
