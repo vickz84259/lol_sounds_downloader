@@ -7,3 +7,6 @@ authors = ['Victor Otieno Omondi <victor@slick.co.ke>']
 [tool.poetry.dependencies]
 python = '^3.7'
 aiohttp = "^3.6"
+pyjwt = "^1.7"
+requests = "^2.22"
+cryptography = "^2.8"
