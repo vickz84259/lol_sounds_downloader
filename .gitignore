@@ -2,3 +2,5 @@
 result
 secrets.json
 config.json
+
+__pycache__/
