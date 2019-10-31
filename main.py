@@ -8,8 +8,16 @@ import time
 
 import aiohttp
 
+import gcp
+import utils
+
 DIR_PATH = './champions.json/'
 ALPHANUMERIC = string.ascii_lowercase + string.digits
+
+CONFIG = utils.get_config()
+bucket_name = CONFIG['bucket_name']
+# Base url for uploads
+BASE_URL = f'https://www.googleapis.com/upload/storage/v1/b/{bucket_name}/o'
 
 
 def get_file_names():
@@ -23,9 +31,9 @@ async def url_producer(download_queue):
     loop = asyncio.get_running_loop()
 
     for file_name in get_file_names():
-        file_data = await loop.run_in_executor(None, process_file, file_name)
+        result = await loop.run_in_executor(None, process_file, file_name)
 
-        for data in file_data:
+        for data in result:
             await download_queue.put(data)
 
 
@@ -60,19 +68,18 @@ def process_file(file_name):
     return get_links(data, base_file_name)
 
 
-async def downloader(download_queue, session):
-    loop = asyncio.get_running_loop()
-
+async def downloader(download_queue, upload_queue, session):
     while True:
         try:
-            link_data = await download_queue.get()
+            file_data = await download_queue.get()
 
-            url = link_data['url']
+            url = file_data['url']
             async with session.get(url) as res:
                 if res.status == 200 and res.content_type == 'audio/mp3':
                     audio_bytes = await res.read()
-                    await loop.run_in_executor(
-                        None, save_file, link_data, audio_bytes)
+                    file_data['bytes'] = audio_bytes
+
+                    await upload_queue.put(file_data)
                 else:
                     print(f'error: {url}', ' ')
                     print(f'type: {res.content_type}', ' ')
@@ -83,27 +90,53 @@ async def downloader(download_queue, session):
             break
 
 
-def save_file(file_data, audio_bytes):
-    file_name = f"{file_data['announcer']}_{file_data['locale']}"
-    file_name = f"{file_name}_{file_data['name']}.mp3"
+async def uploader(upload_queue, session):
+    while True:
+        try:
+            file_data = await upload_queue.get()
 
-    with open(file_name, 'wb') as file:
-        file.write(audio_bytes)
+            file_name = f"{file_data['announcer']}/{file_data['locale']}"
+            file_name = f"{file_name}/{file_data['name']}.mp3"
+
+            url = f'{BASE_URL}?uploadType=media&name={file_name}'
+            data = file_data['bytes']
+
+            async with session.post(url, data=data) as res:
+                if res.status != 200:
+                    print(f'error: {file_name}', ' ')
+                    print(f'status: {res.status}')
+
+            upload_queue.task_done()
+        except asyncio.CancelledError:
+            break
 
 
 async def main():
     start = time.time()
 
     download_queue = asyncio.Queue()
+    upload_queue = asyncio.Queue()
 
-    producer = asyncio.create_task(url_producer(download_queue))
+    upload_headers = {'Content-Type': 'audio/mp3'}
+    token_dict = gcp.get_token()
+    upload_headers['Authorization'] = f"Bearer {token_dict['access_token']}"
 
-    max_downloaders = 10
-    async with aiohttp.ClientSession() as session:
-        tasks = []
-        for _ in range(max_downloaders):
-            task = asyncio.create_task(downloader(download_queue, session))
-            tasks.append(task)
+    async with aiohttp.ClientSession() as download_session, \
+            aiohttp.ClientSession(headers=upload_headers) as upload_session:
+
+        producer = asyncio.create_task(url_producer(download_queue))
+
+        downloaders = []
+        max_workers = 20
+        for _ in range(max_workers):
+            task = asyncio.create_task(
+                downloader(download_queue, upload_queue, download_session))
+            downloaders.append(task)
+
+        uploaders = []
+        for _ in range(max_workers):
+            task = asyncio.create_task(uploader(upload_queue, upload_session))
+            uploaders.append(task)
 
         # Wait for producer to finish
         await producer
@@ -111,7 +144,11 @@ async def main():
         # wait for all files to be downloaded
         await download_queue.join()
 
-        for task in tasks:
+        # wait for all files to be uploaded
+        await upload_queue.join()
+
+        # Cancel pending tasks since both downloads and uploads are complete
+        for task in downloaders + uploaders:
             task.cancel()
 
     print("Process took: {:.2f} seconds".format(time.time() - start))
