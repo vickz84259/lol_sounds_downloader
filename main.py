@@ -23,7 +23,8 @@ BASE_URL = f'https://www.googleapis.com/upload/storage/v1/b/{bucket_name}/o'
 def get_file_names():
     for file_name in os.listdir(DIR_PATH):
         extension = os.path.splitext(file_name)[1]
-        if extension == '.json' and 'announcer' in file_name:
+        if extension == '.json' and 'Announcer' in file_name:
+            print(f'processing {file_name}')
             yield file_name
 
 
@@ -53,9 +54,12 @@ def get_links(data, file_name):
                 audio_file_name = voice['file']
                 final_url = f'{region_url}&filename={audio_file_name}'
 
-                result = {'url': final_url, 'announcer': file_name}
-                result['locale'] = language
-                result['name'] = audio_file_name
+                result = {
+                    'url': final_url,
+                    'announcer': file_name,
+                    'locale': language,
+                    'name': audio_file_name}
+
                 yield result
 
 
@@ -81,9 +85,9 @@ async def downloader(download_queue, upload_queue, session):
 
                     await upload_queue.put(file_data)
                 else:
-                    print(f'error: {url}', ' ')
-                    print(f'type: {res.content_type}', ' ')
-                    print(f'status: {res.status}')
+                    print(f'error: {file_data["announcer"]}', end=' ')
+                    print(file_data['locale'], end=' ')
+                    print(res.status)
 
             download_queue.task_done()
         except asyncio.CancelledError:
@@ -124,7 +128,7 @@ async def upload_file(file_bytes, file_name, session):
         async with session.post(
                 url, data=writer.buffer, headers=mpwriter.headers) as res:
             if res.status != 200:
-                print(f'error: {file_name}', ' ')
+                print(f'error: {file_name}', end=' ')
                 print(f'status: {res.status}')
 
 
@@ -136,7 +140,10 @@ async def uploader(upload_queue, session):
             file_name = f"{file_data['announcer']}/{file_data['locale']}"
             file_name = f"{file_name}/{file_data['name']}.mp3"
 
-            await upload_file(file_data['bytes'], file_name, session)
+            file_bytes = file_data['bytes']
+            file_data.clear()  # Prepping the objects for GC
+
+            await upload_file(file_bytes, file_name, session)
 
             upload_queue.task_done()
         except asyncio.CancelledError:
@@ -146,8 +153,9 @@ async def uploader(upload_queue, session):
 async def main():
     start = time.time()
 
-    download_queue = asyncio.Queue()
-    upload_queue = asyncio.Queue()
+    max_items = 30
+    download_queue = asyncio.Queue(maxsize=max_items)
+    upload_queue = asyncio.Queue(maxsize=max_items)
 
     token_dict = gcp.get_token()
     upload_header = {'Authorization': f"Bearer {token_dict['access_token']}"}
