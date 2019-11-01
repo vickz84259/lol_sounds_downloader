@@ -90,6 +90,44 @@ async def downloader(download_queue, upload_queue, session):
             break
 
 
+class Writer:
+    """Since aiohttp sends multipart data using chunked transfer it is not
+    able to calculate the Content-Length for the whole body. This class is
+    used as a sink for the data.
+
+    It contains a buffer that will store the data all at once
+    """
+
+    def __init__(self):
+        self.buffer = bytearray()
+
+    async def write(self, data):
+        self.buffer.extend(data)
+
+
+async def upload_file(file_bytes, file_name, session):
+    with aiohttp.MultipartWriter('related') as mpwriter:
+        metadata = {
+            'name': file_name,
+            'cacheControl': 'public, max-age=31536000'}
+
+        metadata_header = {'Content-Type': 'application/json; charset=UTF-8'}
+        mpwriter.append_json(metadata, metadata_header)
+
+        media_header = {'Content-Type': 'audio/mp3'}
+        mpwriter.append(file_bytes, media_header)
+
+        writer = Writer()
+        await mpwriter.write(writer)
+
+        url = f'{BASE_URL}?uploadType=multipart'
+        async with session.post(
+                url, data=writer.buffer, headers=mpwriter.headers) as res:
+            if res.status != 200:
+                print(f'error: {file_name}', ' ')
+                print(f'status: {res.status}')
+
+
 async def uploader(upload_queue, session):
     while True:
         try:
@@ -98,13 +136,7 @@ async def uploader(upload_queue, session):
             file_name = f"{file_data['announcer']}/{file_data['locale']}"
             file_name = f"{file_name}/{file_data['name']}.mp3"
 
-            url = f'{BASE_URL}?uploadType=media&name={file_name}'
-            data = file_data['bytes']
-
-            async with session.post(url, data=data) as res:
-                if res.status != 200:
-                    print(f'error: {file_name}', ' ')
-                    print(f'status: {res.status}')
+            await upload_file(file_data['bytes'], file_name, session)
 
             upload_queue.task_done()
         except asyncio.CancelledError:
@@ -117,12 +149,11 @@ async def main():
     download_queue = asyncio.Queue()
     upload_queue = asyncio.Queue()
 
-    upload_headers = {'Content-Type': 'audio/mp3'}
     token_dict = gcp.get_token()
-    upload_headers['Authorization'] = f"Bearer {token_dict['access_token']}"
+    upload_header = {'Authorization': f"Bearer {token_dict['access_token']}"}
 
     async with aiohttp.ClientSession() as download_session, \
-            aiohttp.ClientSession(headers=upload_headers) as upload_session:
+            aiohttp.ClientSession(headers=upload_header) as upload_session:
 
         producer = asyncio.create_task(url_producer(download_queue))
 
